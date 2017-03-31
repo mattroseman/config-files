@@ -1,0 +1,689 @@
+2017-01-26T21:57:22.236Z - info: Initializing local storage instance at path: /home/matthew/.config/Slack/local-settings.json
+2017-01-26T21:57:22.395Z - info: persist/REHYDRATE 
+2017-01-26T21:57:22.396Z - info: Initializing local storage instance at path: /home/matthew/.config/Slack/redux-state.json
+2017-01-26T21:57:22.397Z - info: UPDATE_SETTINGS : {
+  "hasMigratedData": {
+    "macgap": false,
+    "redux": true
+  }
+}
+2017-01-26T21:57:22.493Z - info: INITIALIZE_SETTINGS : {
+  "isDevMode": false,
+  "appVersion": "2.4.2",
+  "versionName": "Valerie",
+  "devEnv": null,
+  "resourcePath": "/usr/lib/slack/resources/app.asar",
+  "launchedWithLink": null,
+  "webappSrcPath": null,
+  "launchOnStartup": false,
+  "releaseChannel": "prod",
+  "openDevToolsOnStart": false,
+  "logFile": null,
+  "pretendNotReallyWindows10": false,
+  "isAeroGlassEnabled": false,
+  "platformVersion": {
+    "major": 4,
+    "minor": 8,
+    "build": 13
+  },
+  "isTitleBarHidden": false
+}
+2017-01-26T21:57:22.508Z - info: Showing a tray balloon with title: Welcome to Slack!
+2017-01-26T21:57:22.523Z - info: UPDATE_SETTINGS : {
+  "hasRunApp": true
+}
+2017-01-26T21:57:22.527Z - info: ADD_WINDOW : {
+  "windowId": 2,
+  "windowType": "MAIN"
+}
+2017-01-26T21:57:22.531Z - info: Loading windowMetrics: null
+2017-01-26T21:57:22.531Z - info: SAVE_WINDOW_SETTINGS : {
+  "position": [
+    576,
+    180
+  ],
+  "size": [
+    1728,
+    1440
+  ]
+}
+2017-01-26T21:57:22.548Z - info: UPDATE_SETTINGS : {
+  "PrefSSBFileDownloadPath": "/home/matthew/Downloads"
+}
+2017-01-26T21:57:22.555Z - info: Welcome to Slack 2.4.2 x64
+2017-01-26T21:57:22.555Z - info: App load time: 328ms
+2017-01-26T21:57:22.556Z - info: SET_FULL_SCREEN : false
+2017-01-26T21:57:23.397Z - info: Main window finished load. Launched on login: false
+2017-01-26T21:58:40.253Z - info: ZOOM_IN : 2
+2017-01-26T21:58:43.747Z - info: ZOOM_IN : 2
+2017-01-26T22:02:07.379Z - info: FOREGROUND_APP 
+2017-01-26T22:02:08.662Z - info: FOREGROUND_APP 
+2017-01-26T22:02:11.550Z - info: SHOW_WEBAPP_DIALOG : {
+  "dialogType": "prefs"
+}
+2017-01-27T04:15:32.375Z - info: Allowing window close because user chose to quit
+2017-01-27T04:15:32.386Z - info: SAVE_WINDOW_SETTINGS : {
+  "size": [
+    1426,
+    1731
+  ],
+  "position": [
+    1442,
+    57
+  ],
+  "isMaximized": false
+}
+2017-01-27T04:15:32.401Z - info: Disposing application
+2017-01-27T04:15:32.402Z - info: REMOVE_WINDOW : 2
+2017-01-27T05:09:57.223Z - info: Initializing local storage instance at path: /home/matthew/.config/Slack/local-settings.json
+2017-01-27T05:09:57.475Z - info: persist/REHYDRATE 
+2017-01-27T05:09:57.587Z - info: INITIALIZE_SETTINGS : {
+  "isDevMode": false,
+  "appVersion": "2.4.2",
+  "versionName": "Valerie",
+  "devEnv": null,
+  "resourcePath": "/usr/lib/slack/resources/app.asar",
+  "launchedWithLink": null,
+  "webappSrcPath": null,
+  "launchOnStartup": false,
+  "releaseChannel": "prod",
+  "openDevToolsOnStart": false,
+  "logFile": null,
+  "pretendNotReallyWindows10": false,
+  "isAeroGlassEnabled": false,
+  "platformVersion": {
+    "major": 4,
+    "minor": 8,
+    "build": 13
+  },
+  "isTitleBarHidden": false
+}
+2017-01-27T05:09:57.634Z - info: ADD_WINDOW : {
+  "windowId": 2,
+  "windowType": "MAIN"
+}
+2017-01-27T05:09:57.637Z - info: Loading windowMetrics: {"size":[1426,1731],"position":[1442,57],"isMaximized":false}
+2017-01-27T05:09:57.659Z - info: Welcome to Slack 2.4.2 x64
+2017-01-27T05:09:57.659Z - info: App load time: 447ms
+2017-01-27T05:09:57.660Z - info: SET_FULL_SCREEN : false
+2017-01-27T05:09:58.696Z - info: Main window finished load. Launched on login: false
+2017-01-28T05:30:25.773Z - info: SAVE_WINDOW_SETTINGS : {
+  "size": [
+    2856,
+    1731
+  ],
+  "position": [
+    12,
+    57
+  ],
+  "isMaximized": false
+}
+2017-01-28T13:30:25.815Z - info: SAVE_WINDOW_SETTINGS : {
+  "size": [
+    2856,
+    1731
+  ],
+  "position": [
+    12,
+    57
+  ],
+  "isMaximized": false
+}
+2017-01-28T22:49:58.524Z - info: SAVE_WINDOW_SETTINGS : {
+  "size": [
+    2856,
+    1731
+  ],
+  "position": [
+    12,
+    57
+  ],
+  "isMaximized": false
+}
+2017-01-29T08:27:19.844Z - info: SAVE_WINDOW_SETTINGS : {
+  "size": [
+    2856,
+    1731
+  ],
+  "position": [
+    12,
+    57
+  ],
+  "isMaximized": false
+}
+2017-01-29T16:27:19.972Z - info: SAVE_WINDOW_SETTINGS : {
+  "size": [
+    2856,
+    1731
+  ],
+  "position": [
+    12,
+    57
+  ],
+  "isMaximized": false
+}
+2017-01-30T00:27:20.001Z - info: SAVE_WINDOW_SETTINGS : {
+  "size": [
+    2856,
+    1731
+  ],
+  "position": [
+    12,
+    57
+  ],
+  "isMaximized": false
+}
+2017-01-31T21:22:34.310Z - info: Attempted to close the window, hiding due to run from tray
+2017-01-31T21:22:34.314Z - info: UPDATE_SETTINGS : {
+  "hasRunFromTray": true
+}
+2017-01-31T21:22:34.320Z - info: SHOW_TRAY_BALLOON : {
+  "title": "Why didn't Slack quit?",
+  "content": "Slack's set to stay running in the notification area. To change this, visit Preferences > Linux App."
+}
+2017-01-31T21:22:34.321Z - info: Showing a tray balloon with title: Why didn't Slack quit?
+2017-01-31T21:22:34.334Z - info: SET_FULL_SCREEN : false
+2017-01-31T22:20:11.507Z - info: SAVE_WINDOW_SETTINGS : {
+  "size": [
+    2856,
+    1731
+  ],
+  "position": [
+    12,
+    57
+  ],
+  "isMaximized": false
+}
+2017-02-02T00:06:58.986Z - info: FOREGROUND_APP 
+2017-02-04T18:30:18.531Z - info: SAVE_WINDOW_SETTINGS : {
+  "size": [
+    2856,
+    1731
+  ],
+  "position": [
+    12,
+    57
+  ],
+  "isMaximized": false
+}
+2017-02-07T00:44:43.148Z - info: SAVE_WINDOW_SETTINGS : {
+  "size": [
+    2856,
+    1731
+  ],
+  "position": [
+    12,
+    57
+  ],
+  "isMaximized": false
+}
+2017-02-13T19:58:11.778Z - info: SAVE_WINDOW_SETTINGS : {
+  "size": [
+    2856,
+    1728
+  ],
+  "position": [
+    12,
+    60
+  ],
+  "isMaximized": false
+}
+2017-02-15T22:33:04.848Z - info: SAVE_WINDOW_SETTINGS : {
+  "size": [
+    2856,
+    1728
+  ],
+  "position": [
+    12,
+    60
+  ],
+  "isMaximized": false
+}
+2017-02-18T22:24:27.234Z - info: SAVE_WINDOW_SETTINGS : {
+  "size": [
+    2856,
+    1728
+  ],
+  "position": [
+    12,
+    60
+  ],
+  "isMaximized": false
+}
+2017-02-20T11:34:07.813Z - info: SAVE_WINDOW_SETTINGS : {
+  "size": [
+    2856,
+    1728
+  ],
+  "position": [
+    12,
+    60
+  ],
+  "isMaximized": false
+}
+2017-02-22T22:08:45.749Z - info: Attempted to close the window, hiding due to run from tray
+2017-02-22T23:01:38.596Z - info: Initializing local storage instance at path: /home/matthew/.config/Slack/local-settings.json
+2017-02-22T23:01:58.776Z - info: persist/REHYDRATE 
+2017-02-22T23:01:58.884Z - info: INITIALIZE_SETTINGS : {
+  "isDevMode": false,
+  "appVersion": "2.4.2",
+  "versionName": "Valerie",
+  "devEnv": null,
+  "resourcePath": "/usr/lib/slack/resources/app.asar",
+  "launchedWithLink": null,
+  "webappSrcPath": null,
+  "launchOnStartup": false,
+  "releaseChannel": "prod",
+  "openDevToolsOnStart": false,
+  "logFile": null,
+  "pretendNotReallyWindows10": false,
+  "isAeroGlassEnabled": false,
+  "platformVersion": {
+    "major": 4,
+    "minor": 8,
+    "build": 13
+  },
+  "isTitleBarHidden": false
+}
+2017-02-22T23:01:58.915Z - info: ADD_WINDOW : {
+  "windowId": 2,
+  "windowType": "MAIN"
+}
+2017-02-22T23:01:58.919Z - info: Loading windowMetrics: {"size":[2856,1728],"position":[12,60],"isMaximized":false}
+2017-02-22T23:01:58.940Z - info: Welcome to Slack 2.4.2 x64
+2017-02-22T23:01:58.940Z - info: App load time: 20355ms
+2017-02-22T23:01:58.940Z - info: SET_FULL_SCREEN : false
+2017-02-22T23:01:59.856Z - info: Main window finished load. Launched on login: false
+2017-02-24T16:37:58.393Z - info: SHOW_WEBAPP_DIALOG : {
+  "dialogType": "prefs"
+}
+2017-02-24T22:54:52.032Z - info: Attempted to close the window, hiding due to run from tray
+2017-02-24T22:54:52.037Z - info: SET_FULL_SCREEN : false
+2017-02-24T22:54:54.780Z - info: FOREGROUND_APP 
+2017-02-27T14:42:05.080Z - info: SAVE_WINDOW_SETTINGS : {
+  "size": [
+    2856,
+    1728
+  ],
+  "position": [
+    12,
+    60
+  ],
+  "isMaximized": false
+}
+2017-03-02T01:12:21.583Z - info: SAVE_WINDOW_SETTINGS : {
+  "size": [
+    2856,
+    1728
+  ],
+  "position": [
+    12,
+    60
+  ],
+  "isMaximized": false
+}
+2017-03-06T03:11:08.527Z - info: SAVE_WINDOW_SETTINGS : {
+  "size": [
+    2856,
+    1728
+  ],
+  "position": [
+    12,
+    60
+  ],
+  "isMaximized": false
+}
+2017-03-06T20:23:13.748Z - info: Initializing local storage instance at path: /home/matthew/.config/Slack/local-settings.json
+2017-03-06T20:23:14.268Z - info: persist/REHYDRATE 
+2017-03-06T20:23:14.383Z - info: INITIALIZE_SETTINGS : {
+  "isDevMode": false,
+  "appVersion": "2.4.2",
+  "versionName": "Valerie",
+  "devEnv": null,
+  "resourcePath": "/usr/lib/slack/resources/app.asar",
+  "launchedWithLink": null,
+  "webappSrcPath": null,
+  "launchOnStartup": false,
+  "releaseChannel": "prod",
+  "openDevToolsOnStart": false,
+  "logFile": null,
+  "pretendNotReallyWindows10": false,
+  "isAeroGlassEnabled": false,
+  "platformVersion": {
+    "major": 4,
+    "minor": 9,
+    "build": 11
+  },
+  "isTitleBarHidden": false
+}
+2017-03-06T20:23:14.430Z - info: ADD_WINDOW : {
+  "windowId": 2,
+  "windowType": "MAIN"
+}
+2017-03-06T20:23:14.433Z - info: Loading windowMetrics: {"size":[2856,1728],"position":[12,60],"isMaximized":false}
+2017-03-06T20:23:14.454Z - info: Welcome to Slack 2.4.2 x64
+2017-03-06T20:23:14.454Z - info: App load time: 717ms
+2017-03-06T20:23:14.455Z - info: SET_FULL_SCREEN : false
+2017-03-06T20:23:15.473Z - info: Main window finished load. Launched on login: false
+2017-03-06T20:23:44.488Z - info: Removed log file at /home/matthew/.config/Slack/logs/renderer-10960.log
+2017-03-06T20:23:44.490Z - info: Removed log file at /home/matthew/.config/Slack/logs/webapp-login.log
+2017-03-06T20:23:44.492Z - info: Removed log file at /home/matthew/.config/Slack/logs/webview-3.log
+2017-03-06T20:23:44.492Z - info: Removed log file at /home/matthew/.config/Slack/logs/webview-4.log
+2017-03-08T02:21:39.544Z - info: SAVE_WINDOW_SETTINGS : {
+  "size": [
+    2856,
+    1700
+  ],
+  "position": [
+    12,
+    88
+  ],
+  "isMaximized": false
+}
+2017-03-10T05:50:45.063Z - info: Attempted to close the window, hiding due to run from tray
+2017-03-10T05:50:45.066Z - info: SET_FULL_SCREEN : false
+2017-03-10T06:46:52.955Z - info: SAVE_WINDOW_SETTINGS : {
+  "size": [
+    2856,
+    1700
+  ],
+  "position": [
+    12,
+    88
+  ],
+  "isMaximized": false
+}
+2017-03-10T19:17:02.019Z - info: FOREGROUND_APP 
+2017-03-11T21:47:34.985Z - info: Allowing window close because user chose to quit
+2017-03-11T21:47:35.018Z - info: SAVE_WINDOW_SETTINGS : {
+  "size": [
+    2856,
+    1728
+  ],
+  "position": [
+    12,
+    60
+  ],
+  "isMaximized": false
+}
+2017-03-11T21:47:35.047Z - info: Disposing application
+2017-03-11T21:47:35.048Z - info: REMOVE_WINDOW : 2
+2017-03-13T02:01:55.708Z - info: Initializing local storage instance at path: /home/matthew/.config/Slack/local-settings.json
+2017-03-13T02:01:55.931Z - info: persist/REHYDRATE 
+2017-03-13T02:01:56.038Z - info: INITIALIZE_SETTINGS : {
+  "isDevMode": false,
+  "appVersion": "2.4.2",
+  "versionName": "Valerie",
+  "devEnv": null,
+  "resourcePath": "/usr/lib/slack/resources/app.asar",
+  "launchedWithLink": null,
+  "webappSrcPath": null,
+  "launchOnStartup": false,
+  "releaseChannel": "prod",
+  "openDevToolsOnStart": false,
+  "logFile": null,
+  "pretendNotReallyWindows10": false,
+  "isAeroGlassEnabled": false,
+  "platformVersion": {
+    "major": 4,
+    "minor": 9,
+    "build": 11
+  },
+  "isTitleBarHidden": false
+}
+2017-03-13T02:01:56.086Z - info: ADD_WINDOW : {
+  "windowId": 2,
+  "windowType": "MAIN"
+}
+2017-03-13T02:01:56.090Z - info: Loading windowMetrics: {"size":[2856,1728],"position":[12,60],"isMaximized":false}
+2017-03-13T02:01:56.110Z - info: Welcome to Slack 2.4.2 x64
+2017-03-13T02:01:56.110Z - info: App load time: 413ms
+2017-03-13T02:01:56.111Z - info: SET_FULL_SCREEN : false
+2017-03-13T02:01:57.114Z - info: Main window finished load. Launched on login: false
+2017-03-13T02:01:57.117Z - info: SET_FULL_SCREEN : false
+2017-03-13T02:01:57.122Z - info: SET_FULL_SCREEN : false
+2017-03-13T04:29:16.032Z - info: Initializing local storage instance at path: /home/matthew/.config/Slack/local-settings.json
+2017-03-13T04:29:16.263Z - info: persist/REHYDRATE 
+2017-03-13T04:29:16.372Z - info: INITIALIZE_SETTINGS : {
+  "isDevMode": false,
+  "appVersion": "2.4.2",
+  "versionName": "Valerie",
+  "devEnv": null,
+  "resourcePath": "/usr/lib/slack/resources/app.asar",
+  "launchedWithLink": null,
+  "webappSrcPath": null,
+  "launchOnStartup": false,
+  "releaseChannel": "prod",
+  "openDevToolsOnStart": false,
+  "logFile": null,
+  "pretendNotReallyWindows10": false,
+  "isAeroGlassEnabled": false,
+  "platformVersion": {
+    "major": 4,
+    "minor": 9,
+    "build": 11
+  },
+  "isTitleBarHidden": false
+}
+2017-03-13T04:29:16.420Z - info: ADD_WINDOW : {
+  "windowId": 2,
+  "windowType": "MAIN"
+}
+2017-03-13T04:29:16.424Z - info: Loading windowMetrics: {"size":[2856,1728],"position":[12,60],"isMaximized":false}
+2017-03-13T04:29:16.445Z - info: Welcome to Slack 2.4.2 x64
+2017-03-13T04:29:16.445Z - info: App load time: 426ms
+2017-03-13T04:29:16.446Z - info: SET_FULL_SCREEN : false
+2017-03-13T04:29:17.496Z - info: Main window finished load. Launched on login: false
+2017-03-13T17:40:50.973Z - info: FOREGROUND_APP 
+2017-03-14T05:15:02.425Z - info: SAVE_WINDOW_SETTINGS : {
+  "size": [
+    2856,
+    1728
+  ],
+  "position": [
+    12,
+    60
+  ],
+  "isMaximized": false
+}
+2017-03-15T01:52:12.249Z - info: Initializing local storage instance at path: /home/matthew/.config/Slack/local-settings.json
+2017-03-15T01:52:12.803Z - info: persist/REHYDRATE 
+2017-03-15T01:52:12.910Z - info: INITIALIZE_SETTINGS : {
+  "isDevMode": false,
+  "appVersion": "2.4.2",
+  "versionName": "Valerie",
+  "devEnv": null,
+  "resourcePath": "/usr/lib/slack/resources/app.asar",
+  "launchedWithLink": null,
+  "webappSrcPath": null,
+  "launchOnStartup": false,
+  "releaseChannel": "prod",
+  "openDevToolsOnStart": false,
+  "logFile": null,
+  "pretendNotReallyWindows10": false,
+  "isAeroGlassEnabled": false,
+  "platformVersion": {
+    "major": 4,
+    "minor": 9,
+    "build": 11
+  },
+  "isTitleBarHidden": false
+}
+2017-03-15T01:52:12.957Z - info: ADD_WINDOW : {
+  "windowId": 2,
+  "windowType": "MAIN"
+}
+2017-03-15T01:52:12.961Z - info: Loading windowMetrics: {"size":[2856,1728],"position":[12,60],"isMaximized":false}
+2017-03-15T01:52:12.983Z - info: Welcome to Slack 2.4.2 x64
+2017-03-15T01:52:12.983Z - info: App load time: 746ms
+2017-03-15T01:52:12.983Z - info: SET_FULL_SCREEN : false
+2017-03-15T01:52:13.993Z - info: Main window finished load. Launched on login: false
+2017-03-15T20:10:51.479Z - info: SAVE_WINDOW_SETTINGS : {
+  "size": [
+    2856,
+    1700
+  ],
+  "position": [
+    12,
+    88
+  ],
+  "isMaximized": false
+}
+2017-03-16T06:58:14.277Z - info: SAVE_WINDOW_SETTINGS : {
+  "size": [
+    1426,
+    1700
+  ],
+  "position": [
+    12,
+    88
+  ],
+  "isMaximized": false
+}
+2017-03-17T03:43:23.917Z - info: SAVE_WINDOW_SETTINGS : {
+  "size": [
+    1426,
+    1700
+  ],
+  "position": [
+    12,
+    88
+  ],
+  "isMaximized": false
+}
+2017-03-19T03:19:58.667Z - info: SAVE_WINDOW_SETTINGS : {
+  "size": [
+    1426,
+    1700
+  ],
+  "position": [
+    12,
+    88
+  ],
+  "isMaximized": false
+}
+2017-03-20T03:30:18.973Z - info: SAVE_WINDOW_SETTINGS : {
+  "size": [
+    1426,
+    1700
+  ],
+  "position": [
+    12,
+    88
+  ],
+  "isMaximized": false
+}
+2017-03-20T22:18:06.487Z - info: SAVE_WINDOW_SETTINGS : {
+  "size": [
+    1426,
+    1700
+  ],
+  "position": [
+    12,
+    88
+  ],
+  "isMaximized": false
+}
+2017-03-22T16:09:55.551Z - info: Allowing window close because user chose to quit
+2017-03-26T17:33:35.576Z - info: Initializing local storage instance at path: /home/matthew/.config/Slack/local-settings.json
+2017-03-26T17:33:35.800Z - info: persist/REHYDRATE 
+2017-03-26T17:33:35.916Z - info: INITIALIZE_SETTINGS : {
+  "isDevMode": false,
+  "appVersion": "2.4.2",
+  "versionName": "Valerie",
+  "devEnv": null,
+  "resourcePath": "/usr/lib/slack/resources/app.asar",
+  "launchedWithLink": null,
+  "webappSrcPath": null,
+  "launchOnStartup": false,
+  "releaseChannel": "prod",
+  "openDevToolsOnStart": false,
+  "logFile": null,
+  "pretendNotReallyWindows10": false,
+  "isAeroGlassEnabled": false,
+  "platformVersion": {
+    "major": 4,
+    "minor": 9,
+    "build": 11
+  },
+  "isTitleBarHidden": false
+}
+2017-03-26T17:33:35.964Z - info: ADD_WINDOW : {
+  "windowId": 2,
+  "windowType": "MAIN"
+}
+2017-03-26T17:33:35.968Z - info: Loading windowMetrics: {"size":[1426,1700],"position":[12,88],"isMaximized":false}
+2017-03-26T17:33:35.988Z - info: Welcome to Slack 2.4.2 x64
+2017-03-26T17:33:35.988Z - info: App load time: 424ms
+2017-03-26T17:33:35.989Z - info: SET_FULL_SCREEN : false
+2017-03-26T17:33:37.030Z - info: Main window finished load. Launched on login: false
+2017-03-26T17:34:05.990Z - info: Removed log file at /home/matthew/.config/Slack/logs/renderer-1443.log
+2017-03-27T06:14:50.910Z - info: SAVE_WINDOW_SETTINGS : {
+  "size": [
+    1426,
+    1700
+  ],
+  "position": [
+    12,
+    88
+  ],
+  "isMaximized": false
+}
+2017-03-28T04:49:51.843Z - info: SAVE_WINDOW_SETTINGS : {
+  "size": [
+    1426,
+    1700
+  ],
+  "position": [
+    12,
+    88
+  ],
+  "isMaximized": false
+}
+2017-03-29T18:36:50.550Z - info: Attempted to close the window, hiding due to run from tray
+2017-03-29T18:36:50.555Z - info: SET_FULL_SCREEN : false
+2017-03-29T23:42:41.952Z - info: SAVE_WINDOW_SETTINGS : {
+  "size": [
+    1426,
+    1700
+  ],
+  "position": [
+    12,
+    88
+  ],
+  "isMaximized": false
+}
+2017-03-30T20:43:02.109Z - info: SHOW_WEBAPP_DIALOG : {
+  "dialogType": "prefs"
+}
+2017-03-30T20:43:02.129Z - info: SET_FULL_SCREEN : false
+2017-03-30T20:43:02.133Z - info: SET_FULL_SCREEN : false
+2017-03-30T20:43:17.483Z - info: Attempted to close the window, hiding due to run from tray
+2017-03-30T20:43:17.488Z - info: SET_FULL_SCREEN : false
+2017-03-31T18:59:11.675Z - info: SAVE_WINDOW_SETTINGS : {
+  "size": [
+    1426,
+    1700
+  ],
+  "position": [
+    1442,
+    88
+  ],
+  "isMaximized": false
+}
+2017-03-31T21:24:55.568Z - info: FOREGROUND_APP 
+2017-03-31T21:25:04.483Z - info: QUIT_APP 
+2017-03-31T21:25:04.488Z - info: Allowing window close because user chose to quit
+2017-03-31T21:25:04.491Z - info: SAVE_WINDOW_SETTINGS : {
+  "size": [
+    636,
+    1028
+  ],
+  "position": [
+    642,
+    45
+  ],
+  "isMaximized": false
+}
+2017-03-31T21:25:04.496Z - info: Disposing application
+2017-03-31T21:25:04.496Z - info: REMOVE_WINDOW : 2

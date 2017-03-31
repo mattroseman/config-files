@@ -1,0 +1,18 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://www.beatlab.com/?ref=cws"
+      },
+      "urls": [ "http://www.beatlab.com/" ]
+   },
+   "description": "Can you make sick beats?  Beatlab is the easiest way to create music and share it with your friends.",
+   "icons": {
+      "128": "icon_128.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCzIhYDLBPu3WMiEQY9S05YSNMkuIIfiC6JlLtZy6pnBi/DMLh3Zt7vVgUK8J/e6NsSJonxrbyCsjf7iF+VGYL2QUbD8uvVEa6/Bcq6p3V15E8hhJQGWg5bUpO2p4OBFWStLxjwg6L0s+JO6lxclVud1qHHvIEdeeTdEJL0Z1m0IQIDAQAB",
+   "manifest_version": 2,
+   "name": "Beatlab",
+   "permissions": [ "unlimitedStorage", "notifications" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.2"
+}

@@ -1,0 +1,1056 @@
+{
+   "about": {
+      "message": "เกี่ยวกับ"
+   },
+   "addbutton": {
+      "message": "เพิ่ม"
+   },
+   "advancedoptions": {
+      "message": "ตัวเลือกขั้นสูง"
+   },
+   "areyouhappy": {
+      "message": "Are you happy about Turn Off the Lights?"
+   },
+   "basicsettings": {
+      "message": "ข้อมูลพื้นฐานเกี่ยวกับ"
+   },
+   "bottom": {
+      "message": "ด้านล่าง"
+   },
+   "changelog": {
+      "message": "บันทึกการเปลี่ยนแปลง"
+   },
+   "deletebutton": {
+      "message": "ลบ"
+   },
+   "des1checkmotion": {
+      "message": "คุณต้องแน่ใจว่า ห้องของคุณไม่มืดไปและมีแสงสว่างที่เพียงพอ"
+   },
+   "des2checkmotion": {
+      "message": "กล้องของคุณต้องไม่ได้รับแสงแดดโดยตรง"
+   },
+   "des3checkmotion": {
+      "message": "คุณใช้กล้องหน้า"
+   },
+   "desaddvideobutton": {
+      "message": "แสดงปุ่มเพิ่มจากวิดีโอนี้ใน YouTube"
+   },
+   "desalllightsoff": {
+      "message": "Clicking the lamp button will toggle the lights on/off on all open tabs"
+   },
+   "desambilight": {
+      "message": "แสดงผลแสงบรรยากาศปัจจุบันเล่นวิดีโอ"
+   },
+   "desambilight4color": {
+      "message": "มี4 สีให้เลือกรอบๆวิดีโอ:"
+   },
+   "desambilightfixcolor": {
+      "message": "สีทึบ:"
+   },
+   "desambilightrangeblurradius": {
+      "message": "Lower values will sharpen the shadow, higher values will make them more blurred."
+   },
+   "desambilightrangespreadradius": {
+      "message": "ค่าบวกเพิ่มขนาดของเงา ลบค่าลดขนาด"
+   },
+   "desambilightvarcolor": {
+      "message": "ใช้สีจากวิดีโอ"
+   },
+   "desapause": {
+      "message": "pause"
+   },
+   "desapitext": {
+      "message": "วิกิ API สำหรับนักพัฒนาเว็บไซต์"
+   },
+   "desaplay": {
+      "message": "play"
+   },
+   "desastop": {
+      "message": "stop"
+   },
+   "desatmosphereonly": {
+      "message": "ใช้คุณลักษณะแสงบรรยากาศเฉพาะวิดีโอไซต์ต่อไปนี้:"
+   },
+   "desatmosvivid": {
+      "message": "Vivid atmosphere effects, require"
+   },
+   "desauroraplayer": {
+      "message": "The ambient lighting player is also available for your computer."
+   },
+   "desautoplay": {
+      "message": "ดับไฟอัตโนมัติเมื่อกดเล่นในยูทูป."
+   },
+   "desautoplaydelay": {
+      "message": "Brighten the background again when the video has ended after"
+   },
+   "desautoplaydelayend": {
+      "message": "วินาที"
+   },
+   "desautoplayonly": {
+      "message": "ให้สลัวลงกับไซต์ของวิดีโอเท่านั้น:"
+   },
+   "desautostop": {
+      "message": "Stop playing the video automatically when I open a web page"
+   },
+   "desautostoponly": {
+      "message": "Only activate stop playing the video automatically on the following site(s):"
+   },
+   "desbrowserextension": {
+      "message": "ส่วนขยายของเบราว์เซอร์"
+   },
+   "desbrowsersupport": {
+      "message": "เบราว์เซอร์นี้ไม่สนับสนุนคุณลักษณะนี้ กรุณาตรวจสอบให้แน่ใจว่าคุณใช้รุ่นล่าสุดของเบราว์เซอร์นี้บนคอมพิวเตอร์ของคุณ"
+   },
+   "desbrowsertheme": {
+      "message": "ธีมของเบราว์เซอร์"
+   },
+   "descammotiononly": {
+      "message": "เรียกใช้การเคลื่อนไหวกล้องเพียงเว็บไซต์ต่อไปนี้:"
+   },
+   "desconfirmpassword": {
+      "message": "ยืนยันรหัสผ่าน"
+   },
+   "desconfirmtime": {
+      "message": "ยืนยันเวลา"
+   },
+   "desconfirmtimesaver": {
+      "message": "ยืนยันเวลาของโปรแกรมถนอมหน้าจอ"
+   },
+   "descontextmenus": {
+      "message": "แสดงเมนูบริบทจะเน้นรายการ"
+   },
+   "description": {
+      "message": "The entire page will be fading to dark, so you can watch the videos as if you were in the cinema. Works for YouTube™ and Beyond."
+   },
+   "desdynamicblocks": {
+      "message": "บล็อก"
+   },
+   "desdynamiccloud": {
+      "message": "เมฆแบบเคลื่อนไหว"
+   },
+   "desdynamicdotscolor": {
+      "message": "Color Dots"
+   },
+   "desdynamicfishtank": {
+      "message": "ตู้ปลา"
+   },
+   "desdynamicraindrops": {
+      "message": "ฝนตก"
+   },
+   "desdynamicsmoke": {
+      "message": "Smoke"
+   },
+   "desdynamicspace": {
+      "message": "อวกาศจักรวาล"
+   },
+   "desdynamicstars": {
+      "message": "ดาว"
+   },
+   "desdynamicstorm": {
+      "description": "Storm",
+      "message": "Storm"
+   },
+   "desdynamictriangulation": {
+      "message": "Triangulation"
+   },
+   "deseastereggs": {
+      "message": "Pressing the T key adds a theater curtain to the dark layer"
+   },
+   "desenterpassword": {
+      "message": "ป้อนรหัสผ่านในกล่องด้านล่าง:"
+   },
+   "deseyea": {
+      "message": "สลัวพื้นหลังโดยอัตโนมัติเมื่อเปิดหน้าเพจ"
+   },
+   "deseyealist": {
+      "message": "หรี่พื้นหลังโดยอัตโนมัติ ในเปิดเพจที่ต่อไปนี้:"
+   },
+   "deseyen": {
+      "message": "Normal use (lights go out when you click on the lamp icon)"
+   },
+   "deseyetimesaver": {
+      "message": "When a page is inactive (no mouse or keyboard input) for the time specified below, it automatically goes dark."
+   },
+   "desfadein": {
+      "message": "แสดงเอฟเฟ็คต์การดับไฟ."
+   },
+   "desfadeout": {
+      "message": "แสดงเอฟเฟ็คต์การเปิดไฟ."
+   },
+   "desflash": {
+      "message": "แสดงแฟลชทั้งหมด."
+   },
+   "deshardflash": {
+      "message": "แสดงวัตถุ Flash ทั้งหมด ข้ามกรอง URL นี้จะแก้ไขปัญหากับบางเครื่องเล่นวิดีโอที่ถูกซ่อน แต่ยังจะแสดงโฆษณา"
+   },
+   "deshead": {
+      "message": "แสดงแถบแชนแนล."
+   },
+   "deshovervideo": {
+      "message": "Hover your mouse on the video element for certain number of seconds, after which the webpage automatically dims"
+   },
+   "desinfobar": {
+      "message": "แสดงข้อมูลคำอธิบายเกี่ยวกับวิดีโอ"
+   },
+   "deslampandnightmode": {
+      "message": "Activate the 'Night Mode' option when you click on the gray lamp button"
+   },
+   "deslikebar": {
+      "message": "แสดงแถบชอบ/ไม่ชอบใต้วิดีโอของ YouTube"
+   },
+   "deslikebutton": {
+      "message": "แสดงปุ่มชอบและไม่ชอบของ YouTube สำหรับวิดีโอนี้"
+   },
+   "desmobileapp": {
+      "message": "Turn Off the Lights is also available for your mobile device."
+   },
+   "desmotion": {
+      "message": "Enable the Camera Motion"
+   },
+   "desmotionChecklist": {
+      "message": "รายการตรวจสอบ:"
+   },
+   "desmousespotlighta": {
+      "message": "เมื่อปิดไฟ จะมีการแสดงสปอตไลท์รอบ ๆ เคอร์เซอร์ของเมาส์"
+   },
+   "desmousespotlightc": {
+      "message": "เมื่อปิดไฟ คุณสามารถเลือกพื้นที่ที่จะให้โฟกัสบนวัตถุนั้น"
+   },
+   "desmousespotlighto": {
+      "message": "ตัวเลือกสำหรับพฤติกรรมการใช้เมาส์ (ปิดการใช้งานด้วยการตั้งค่าเมาส์ที่อยู่ด้านล่าง)"
+   },
+   "desmousespotlights": {
+      "message": "Enable the screen shade, with the possibility to click on the hyperlinks"
+   },
+   "desmousespotlightt": {
+      "message": "เปิดใช้การคลิกเพื่อเชื่อมโยงหลายมิติเมื่อหน้าจอมืดลงแล้ว"
+   },
+   "desnightactivetime": {
+      "message": "The switch will be visible between the following times:"
+   },
+   "desnightenabletheme": {
+      "message": "เมื่อคุณเปิดหน้าใหม่ จะเข้าสู่โหมดกลางคืนโดยอัตโนมัติ"
+   },
+   "desnighthover": {
+      "message": "Shows a transparent switch on the web page"
+   },
+   "desnightonly": {
+      "message": "แสดงโหมดกลางคืนเท่านั้นสำหรับไซต์ต่อไปนี้:"
+   },
+   "desnightowl": {
+      "message": "One click converts the page directly into a night theme with a clickable hyperlink. Click it again to return to normal view. Click the lamp button again to disable this feature."
+   },
+   "desnighttheme": {
+      "message": "แสดงปุ่มสลับเป็นโหมดกลางคืนที่ด้านล่างของเว็บไซต์เพื่อสลับระหว่างมืดและสว่าง"
+   },
+   "desnoflash": {
+      "message": "ไม่ใช้ฟีเจอร์นี้"
+   },
+   "despassword": {
+      "message": "ต้องการรหัสผ่านป้อนก่อนที่จะเปิดไฟย้อนกลับ"
+   },
+   "desplaylist": {
+      "message": "แสดงภาพเพลย์ลิสต์."
+   },
+   "desproject": {
+      "message": "โครงการ"
+   },
+   "desreadera": {
+      "message": "เสมอแสดงแถบระดับความหมองเมื่อไฟออกไปข้างนอก"
+   },
+   "desreadern": {
+      "message": "ไม่ต้องแสดงแถบระดับความดำมืด"
+   },
+   "desreflection": {
+      "message": "Show the reflection effect on all videos"
+   },
+   "desregularuser": {
+      "message": "This is default and the regular setting for new users. When clicking the gray lamp button, this style will be applied to the current web page."
+   },
+   "desrememberpage": {
+      "message": "Do not show reminder page"
+   },
+   "desremfacebook": {
+      "message": "Recommend this on Facebook"
+   },
+   "desremyoutube": {
+      "message": "กดติดตามเราบน Youtube"
+   },
+   "dessaver": {
+      "message": "โปรแกรมถนอมหน้าจอ:"
+   },
+   "desscreenprotection": {
+      "message": "One click shades the page to a soothing orange color to decrease eye strain on all open tabs. Click the lamp button again to disable this feature."
+   },
+   "dessharebutton": {
+      "message": "แสดงปุ่มหุ้นของ YouTube สำหรับวิดีโอนี้"
+   },
+   "desshortcutlight": {
+      "message": "เปิดใช้งานแป้นพิมพ์ลัดที่อยู่ข้างล่าง"
+   },
+   "desspeech": {
+      "message": "เมื่อคุณได้เปิดใช้งานตัวเลือกนี้ คุณสามารถพูดกับโคมไฟของเบราว์เซอร์ และคุณสามารถพูดคำสั่งต่อไปนี้:"
+   },
+   "desspeech1command": {
+      "message": "ปิดไฟ"
+   },
+   "desspeech2command": {
+      "message": "เปิดไฟ"
+   },
+   "desspeech3command": {
+      "message": "เล่นวิดีโอ"
+   },
+   "desspeech4command": {
+      "message": "หยุดวิดีโอชั่วคราว"
+   },
+   "desspeech5command": {
+      "message": "browser lamp"
+   },
+   "desspeechdialect": {
+      "message": "เลือกภาษาของเสียง:"
+   },
+   "desspeechonly": {
+      "message": "เรียกใช้การรู้จำเสียงเพียงเว็บไซต์ต่อไปนี้:"
+   },
+   "desspotlightradius": {
+      "message": "เส้นผ่าศูนย์กลางของสปอร์ตไลท์:"
+   },
+   "dessuggestions": {
+      "message": "แสดงคำแนะนำของ YouTube เว็บไซต์"
+   },
+   "destime": {
+      "message": "ไฟปิดระหว่างเวลาต่อไปนี้:"
+   },
+   "destrymotion": {
+      "message": "ซึ่งนั่นเป็นสิ่งที่ดี และสิ่งที่ดีไปกว่านั้นคือทั้งหมดสามารถใช้ได้ทุกที่ แม้ใน YouTube เว็บไซต์ข่าว ฯลฯ"
+   },
+   "desuntil": {
+      "message": "จนถึง"
+   },
+   "desvideoheadline": {
+      "message": "การแสดงและสลับสีของชื่อวิดีโอ"
+   },
+   "desvideotool": {
+      "message": "Show the toolbar below your screen to customize the current video player"
+   },
+   "desvideotoolcolor": {
+      "message": "Color of the toolbar"
+   },
+   "desvideotoolonly": {
+      "message": "Activate the Video Tool Bar only on the following site(s):"
+   },
+   "desvideovolume": {
+      "message": "Control the volume of the current video player with a mouse scroll"
+   },
+   "desvideovolumecolor": {
+      "message": "Color of the slider"
+   },
+   "desviewcount": {
+      "message": "แสดงจำนวนของมุมมองสำหรับวิดีโอนี้"
+   },
+   "desvisopacity": {
+      "message": "The opacity value of the audio visualization background"
+   },
+   "desvolumelabel": {
+      "message": "Show volume label"
+   },
+   "desvolumesteps": {
+      "message": "The number of levels for each 360° wheel scroll"
+   },
+   "donatepromotext": {
+      "message": "หากคุณสามารถทำให้การบริจาคของจำนวนเงินที่ให้ฉันขอบคุณมันอย่างมาก!"
+   },
+   "downloadtheapp": {
+      "message": "Download the app now"
+   },
+   "eastereggsquestion": {
+      "message": "คุณชอบดูหนังในโรงหนังรึเปล่า?"
+   },
+   "enjoyshare": {
+      "message": "เพลิดเพลินกับส่วนขยายนี้ และแชร์ให้กับคนที่คุณคิดว่าเขาจะประทับใจกับมัน"
+   },
+   "eyedivoff": {
+      "message": "ปิด"
+   },
+   "eyedivon": {
+      "message": "เปิด"
+   },
+   "flashembedobject": {
+      "message": "Supports: \u003Cobject>, \u003Cembed>, \u003Capplet>, \u003Ciframe>."
+   },
+   "friendlyremember": {
+      "message": "การแจ้งเตือนที่เป็นมิตร"
+   },
+   "guide": {
+      "message": "ยินดีต้อนรับสู่ไกด์ของ TOtL"
+   },
+   "help": {
+      "message": "ช่วยเหลือ"
+   },
+   "helpautoplay": {
+      "message": "อุปกรณ์ป้องกันดวงตา"
+   },
+   "helpeyeprotection": {
+      "message": "จะเปิดการใช้งาน 'การปกป้องสายตา' โดยอัตโนมัติแล้วจะปิดใช้งานคุณลักษณะ 'เล่นอัตโนมัติ'"
+   },
+   "hoveroptionapply": {
+      "message": "นำไปใช้"
+   },
+   "hoveroptiondyn5": {
+      "message": "อย่างรวดเร็ว"
+   },
+   "howworkmotion": {
+      "message": "มันทำงานอย่างไร?"
+   },
+   "html5andyoutube": {
+      "message": "HTML5 & YouTube™ video"
+   },
+   "installadblocker": {
+      "message": "ถ้าคุณไม่ต้องการเห็นโฆษณา ใช้ adblocker extension"
+   },
+   "lastchecked": {
+      "message": "ตรวจสอบเป็นรุ่นล่าสุด"
+   },
+   "left": {
+      "message": "ซ้าย"
+   },
+   "lockentername": {
+      "message": "โปรดใส่รหัสผ่านของคุณ"
+   },
+   "lockwrongpassword": {
+      "message": "รหัสผ่านที่ไม่ถูกต้อง กรุณาลองอีกครั้ง"
+   },
+   "longdonatetext": {
+      "message": "I'd truly appreciate if you can donate me to keep this browser extension alive for other new users. Whether it's $$1 or $$100, your support is immensely appreciated!"
+   },
+   "motionoptions": {
+      "message": "การเคลื่อนไหวกล้อง"
+   },
+   "name": {
+      "message": "ปิดไฟ"
+   },
+   "nightoptions": {
+      "message": "โหมดกลางคืน"
+   },
+   "nmbottomleft": {
+      "message": "Bottom left"
+   },
+   "nmbottomright": {
+      "message": "Bottom right"
+   },
+   "nmcustom": {
+      "message": "Custom (click, hold and move the switch to the desired screen location)"
+   },
+   "nmtopleft": {
+      "message": "Top left"
+   },
+   "nmtopright": {
+      "message": "Top right"
+   },
+   "nothanks": {
+      "message": "No thanks"
+   },
+   "optionecosaversaved": {
+      "message": "บันทึกเวลาเรียบร้อยแล้ว!"
+   },
+   "optionpagetitle": {
+      "message": "Turn Off the Lights - ตัวเลือก"
+   },
+   "optionpasswordsaved": {
+      "message": "บันทึกรหัสผ่านเรียบร้อยแล้ว"
+   },
+   "optionprofilesaved": {
+      "message": "New lamp action is saved successfully!"
+   },
+   "optiontimesaved": {
+      "message": "ได้บันทึกเวลาเรียบร้อยแล้ว!"
+   },
+   "optionwrongimg": {
+      "message": "ไฟล์รูปภาพไม่ถูกต้อง!"
+   },
+   "pageatitle": {
+      "message": "ปิดไฟ"
+   },
+   "pagehelp": {
+      "message": "ช่วยเหลือ"
+   },
+   "pagestillloading": {
+      "message": "ยังโหลดหน้านี้ไม่เสร็จ ?"
+   },
+   "pagetitle": {
+      "message": "เข้มหน้านี้"
+   },
+   "productshare": {
+      "message": "ใช้ร่วมกัน"
+   },
+   "promotitle": {
+      "message": "Tip of the day"
+   },
+   "ratedes": {
+      "message": "และให้ทุกคนทราบเกี่ยวกับส่วนขยายดีๆ แบบนี้!"
+   },
+   "rateitema": {
+      "message": "ให้คะแนน 5 ดาว"
+   },
+   "ratetitle": {
+      "message": "กรุณาให้คะแนนและรีวิวส่วนขยายของฉันด้วย"
+   },
+   "recflash": {
+      "message": "ขอแนะนำ"
+   },
+   "rememberrate": {
+      "message": "ให้คะแนน"
+   },
+   "reportbug": {
+      "message": "รายงานปัญหา"
+   },
+   "reportlist": {
+      "message": "(ดูรายการ)"
+   },
+   "resetbrowserextension": {
+      "message": "ตั้งค่า Turn Off the Lights ใหม่"
+   },
+   "right": {
+      "message": "ขวา"
+   },
+   "settings": {
+      "message": "การตั้งค่า"
+   },
+   "sharemenudonatetitle": {
+      "message": "สนับสนุนการพัฒนา"
+   },
+   "sharemenupostonfacebook": {
+      "message": "โพสต์บน Facebook"
+   },
+   "sharemenupostongoogleplus": {
+      "message": "โพสต์บน Google +"
+   },
+   "sharemenuratetitle": {
+      "message": "ให้คะแนนส่วนขยายนี้"
+   },
+   "sharemenusendatweet": {
+      "message": "ส่งไปที่ Tweet"
+   },
+   "sharemenusharetitle": {
+      "message": "แชร์สิ่งนี้"
+   },
+   "sharemenutellafriend": {
+      "message": "บอกเพื่อน"
+   },
+   "sharemenuwelcomeguidetitle": {
+      "message": "ยินดีต้อนรับสู่การแนะนำ"
+   },
+   "sharetexta": {
+      "message": "Get this Cool Turn Off the Lights Browser Extension"
+   },
+   "sharetextb": {
+      "message": "Hey, This is amazing. I just tried today this Turn Off the Lights Browser extension "
+   },
+   "sharetextc": {
+      "message": "The Best and Amazing Turn Off the Lights Browser extension"
+   },
+   "sharetextd": {
+      "message": "Turn Off the Lights extension is the Best Tool for use on YouTube. Download it and try it yourself!"
+   },
+   "shortcutalllights": {
+      "message": "เมื่อต้องการเปิดปิดไฟสำหรับแท็บที่เปิดอยู่ทั้งหมด"
+   },
+   "shortcutbright": {
+      "message": "ทำให้หน้าจอสว่างขึ้น (ความทึบแสงลดลง)"
+   },
+   "shortcutdark": {
+      "message": "ทำให้หน้าจอมืดลง (เพิ่มความทึบแสง)"
+   },
+   "shortcuteyeprotection": {
+      "message": "เปิด/ปิดการใช้งานของคุณลักษณะการปกป้องสายตา"
+   },
+   "shortcutopacity": {
+      "message": "to restore to the set darkness (opacity) setting"
+   },
+   "shortcutsavingopacity": {
+      "message": "บันทึกค่าความทึบแสงนี้"
+   },
+   "shortcuttotl": {
+      "message": "เพื่อสลับระหว่างเปิด/ปิดไฟ"
+   },
+   "showremember": {
+      "message": "ไม่แสดงหน้าเตือนความจำนี้อีกเมื่อเปิดหน้าตัวเลือก"
+   },
+   "skipremember": {
+      "message": "ข้ามไป แล้วเปิดหน้าตัวเลือกทันที"
+   },
+   "speechoption": {
+      "message": "การเรียนรู้จดจำเสียง"
+   },
+   "step1description": {
+      "message": "เปิดใช้งานคุณลักษณะการเคลื่อนไหวของกล้อง"
+   },
+   "step2description": {
+      "message": "ย้ายมือของคุณ (หรือกำปั้น) จากด้านบนลงล่าง"
+   },
+   "step3description": {
+      "message": "The black layer will automatically slide down."
+   },
+   "tellothers": {
+      "message": "Ensure that your opinion counts"
+   },
+   "textfoot": {
+      "message": "This software is licensed under the CC-GNU GPL. To view a copy of this license, view the"
+   },
+   "titel360youtube": {
+      "message": "Shows the full 360 degrees YouTube video in one frame"
+   },
+   "titeladdvideobutton": {
+      "message": "เพิ่มปุ่ม"
+   },
+   "titelalllightsoff": {
+      "message": "เปิดแท็บทั้งหมด"
+   },
+   "titelambilight": {
+      "message": "แสงของบรรยากาศรอบๆ"
+   },
+   "titelapideveloper": {
+      "message": "นักพัฒนา API"
+   },
+   "titelautoplay": {
+      "message": "ออโต้"
+   },
+   "titelautoplayblacklist": {
+      "message": "Blacklist"
+   },
+   "titelautoplaywhitelist": {
+      "message": "Whitelist"
+   },
+   "titelautostop": {
+      "message": "AutoStop"
+   },
+   "titelautostopblacklist": {
+      "message": "Blacklist"
+   },
+   "titelautostopwhitelist": {
+      "message": "Whitelist"
+   },
+   "titelautowidthyoutube": {
+      "message": "ตั้งค่าการเล่น YouTube ให้เป็นขนาดใหญ่โดยอัตโนมัติ"
+   },
+   "titelblock60fps": {
+      "description": "Block 60fps",
+      "message": "Block 60fps"
+   },
+   "titelblur": {
+      "message": "เบลอส่วนที่เหลือ"
+   },
+   "titelblurradius": {
+      "message": "รัศมีการเบลอ:"
+   },
+   "titelcamera": {
+      "message": "กล้องถ่ายรูป"
+   },
+   "titelcinemaontop": {
+      "message": "โหมดโรงภาพยนตร์: 'ไฟปิด' และแสดงเฉพาะเลเยอร์ของวิดีโอเท่านั้น"
+   },
+   "titelcolor": {
+      "message": "สี"
+   },
+   "titelcolora": {
+      "message": "Color A:"
+   },
+   "titelcolorb": {
+      "description": "Color B:",
+      "message": "Color B:"
+   },
+   "titelcontextmenus": {
+      "message": "เนื้อหารายการ"
+   },
+   "titeldeveloper": {
+      "message": "นักพัฒนา"
+   },
+   "titeldoesntwork": {
+      "message": "Turn Off the Lights doesn't work on this web page. Please try another page."
+   },
+   "titeldownloadbutton": {
+      "message": "ดาวน์โหลดเพื่ออัพเกรด!"
+   },
+   "titeldownloadthemeupgrade": {
+      "message": "เพิ่มชุดรูปแบบสีเข้มกับเบราว์เซอร์ของคุณเพื่อตกแต่ง ชุดรูปแบบปรากฏขึ้นรอบๆ ขอบของเบราว์เซอร์"
+   },
+   "titeldownloadupgrade": {
+      "message": "การอัพเกรดเพิ่มการสนับสนุนสำหรับการเน้นภาพที่เลือก และจะแสดงเก็บรูปภาพบนเว็บไซต์"
+   },
+   "titeldownloadupgradefinancetoolbar": {
+      "message": "This shows you the real time stock market information."
+   },
+   "titeldownloadupgradepropermenubar": {
+      "message": "Adds back the black menubar on the Google website."
+   },
+   "titeldownloadupgradezoom": {
+      "message": "Zooms in or out on web content using the zoom button for more comfortable reading."
+   },
+   "titeldynamic": {
+      "message": "พื้นหลังแบบไดนามิก"
+   },
+   "titeleastereggs": {
+      "message": "ไข่อีสเตอร์"
+   },
+   "titeleye": {
+      "message": "อุปกรณ์ป้องกันดวงตา"
+   },
+   "titeleyeblacklist": {
+      "message": "Blacklist"
+   },
+   "titeleyewhitelist": {
+      "message": "Whitelist"
+   },
+   "titelfadein": {
+      "message": "การดับไฟ"
+   },
+   "titelfadeout": {
+      "message": "การเปิดไฟ"
+   },
+   "titelflash": {
+      "message": "แฟลช"
+   },
+   "titelhead": {
+      "message": "แชนแนล"
+   },
+   "titelhovervideo": {
+      "message": "Video Hover"
+   },
+   "titelimage": {
+      "message": "ภาพพื้นหลัง"
+   },
+   "titelinfobar": {
+      "message": "ข้อมูลบาร์"
+   },
+   "titellamp": {
+      "message": "หลอดไฟ"
+   },
+   "titellampchoose": {
+      "message": "Choose your favorite lamp style"
+   },
+   "titellampregular": {
+      "message": "แสดงไอคอนไฟเสมอใน omnibox"
+   },
+   "titellampvideo": {
+      "message": "แสดงไอคอนไฟเมื่อมีการตรวจพบเครื่องเล่นวิดีโอเท่านั้น"
+   },
+   "titellessmore": {
+      "message": "แสดงน้อยลง"
+   },
+   "titellikebar": {
+      "message": "แถบชอบ"
+   },
+   "titellikebutton": {
+      "message": "ปุ่ม ชอบ & ไม่ชอบ"
+   },
+   "titellinear": {
+      "message": "เส้นตรง"
+   },
+   "titelmaxqualityyoutube": {
+      "message": "ตั้งค่าความละเอียดโดยอัตโนมัติ:"
+   },
+   "titelmouse": {
+      "message": "เมาส์"
+   },
+   "titelnightmodebck": {
+      "message": "Background color"
+   },
+   "titelnightmodeblacklist": {
+      "message": "Blacklist"
+   },
+   "titelnightmodehyperlink": {
+      "description": "Hyperlink",
+      "message": "Hyperlink"
+   },
+   "titelnightmodeposition": {
+      "message": "Position of switch"
+   },
+   "titelnightmodetxt": {
+      "message": "Text color"
+   },
+   "titelnightmodewhitelist": {
+      "message": "Whitelist"
+   },
+   "titelnighttheme": {
+      "message": "โหมดกลางคืน"
+   },
+   "titeloff": {
+      "message": "ปิด"
+   },
+   "titelon": {
+      "message": "เปิด"
+   },
+   "titelopacity": {
+      "message": "ความทึบ"
+   },
+   "titelpageaction": {
+      "message": "โคมไฟซ่อนไอคอน"
+   },
+   "titelpassword": {
+      "message": "การป้องกันรหัสผ่าน"
+   },
+   "titelplaylist": {
+      "message": "เพลย์ลิสต์"
+   },
+   "titelpopupoptions": {
+      "message": "ตัวเลือก"
+   },
+   "titelpopupratestars": {
+      "message": "ให้คะแนน 5 ดาว"
+   },
+   "titelpopupsupport": {
+      "message": "สนับสนุน"
+   },
+   "titelpopupvideo": {
+      "message": "YouTube"
+   },
+   "titelpopupwelcomeguide": {
+      "message": "ยินดีต้อนรับสู่การแนะนำ"
+   },
+   "titelqualityyoutube": {
+      "message": "ตั้งค่าคุณภาพของวิดีโอ YouTube โดยอัตโนมัติ"
+   },
+   "titelreader": {
+      "message": "บาร์ระดับความดำมืด"
+   },
+   "titelreflection": {
+      "message": "Reflection"
+   },
+   "titelrememberpage": {
+      "message": "จดจำเพจนี้"
+   },
+   "titelreset": {
+      "message": "ตั้งค่าใหม่"
+   },
+   "titelrightsreserved": {
+      "message": "สงวนลิขสิทธิ์บางประการ"
+   },
+   "titelscreen": {
+      "message": "หน้าจอ"
+   },
+   "titelseeonline": {
+      "message": "ดูออนไลน์สำหรับตัวอย่างเพิ่มเติม"
+   },
+   "titelsharebutton": {
+      "message": "ปุ่ม Share"
+   },
+   "titelsharethis": {
+      "message": "Share this:"
+   },
+   "titelshortcutlight": {
+      "message": "ปุ่มทางลัด"
+   },
+   "titelshowmore": {
+      "message": "แสดงเพิ่มเติม"
+   },
+   "titelspeech": {
+      "message": "คำพูด"
+   },
+   "titelspreadradius": {
+      "message": "ขยายรัศมี:"
+   },
+   "titelsuggestions": {
+      "message": "ข้อเสนอแนะ"
+   },
+   "titelsupportatmos": {
+      "message": "Supports only the HTML5 \u003Cvideo> and YouTube HTML5 player. It also uses the GPU from your graphics card."
+   },
+   "titelsync": {
+      "message": "ซิงค์"
+   },
+   "titelsyncbrowser": {
+      "message": "เชื่อมโยงการตั้งค่าส่วนขยายด้วยเบราว์เซอร์อื่นๆของคุณ"
+   },
+   "titelupgrade": {
+      "message": "อัพเกรด"
+   },
+   "titelvideoheadline": {
+      "message": "ชื่อวิดีโอ"
+   },
+   "titelvideosample": {
+      "message": "ตัวอย่างวิดีโอ"
+   },
+   "titelvideotool": {
+      "message": "Video Toolbar"
+   },
+   "titelvideotoolblacklist": {
+      "message": "Blacklist"
+   },
+   "titelvideotoolbrightness": {
+      "message": "brightness"
+   },
+   "titelvideotoolcontrast": {
+      "message": "contrast"
+   },
+   "titelvideotoolfilter": {
+      "message": "Filter"
+   },
+   "titelvideotoolfullwindow": {
+      "message": "Full window"
+   },
+   "titelvideotoolgrayscale": {
+      "message": "grayscale"
+   },
+   "titelvideotoolhueroration": {
+      "message": "hue rotation"
+   },
+   "titelvideotoolinvert": {
+      "message": "invert"
+   },
+   "titelvideotoollike": {
+      "message": "Like"
+   },
+   "titelvideotoolnormal": {
+      "message": "normal"
+   },
+   "titelvideotoolrepeat": {
+      "message": "Repeat"
+   },
+   "titelvideotoolsaturate": {
+      "message": "saturation"
+   },
+   "titelvideotoolscreenshot": {
+      "message": "Take a screenshot"
+   },
+   "titelvideotoolsepia": {
+      "message": "sepia"
+   },
+   "titelvideotoolsubscribe": {
+      "message": "สมัครสมาชิก"
+   },
+   "titelvideotoolwhitelist": {
+      "message": "Whitelist"
+   },
+   "titelviewcount": {
+      "message": "จำนวนผู้เข้าชม"
+   },
+   "titelvisblocks": {
+      "message": "บล็อก"
+   },
+   "titelvischoose": {
+      "message": "Choose your Audio Visualization"
+   },
+   "titelvisenable": {
+      "message": "Enable/disable the Audio Visualization"
+   },
+   "titelvisfrequency": {
+      "message": "Frequency"
+   },
+   "titelvistunnel": {
+      "message": "Music Tunnel"
+   },
+   "titelvisualization": {
+      "message": "Audio Visualization"
+   },
+   "titelvolume": {
+      "message": "Video Volume Slider"
+   },
+   "titelwebsite": {
+      "message": "เว็บไซต์"
+   },
+   "titelwikiatmos": {
+      "message": "Wiki เกี่ยวกับคุณลักษณะแสงบรรยากาศ"
+   },
+   "titledonatebutton": {
+      "message": "บริจาค"
+   },
+   "titlelearnmore": {
+      "message": "Learn more"
+   },
+   "titlenightowl": {
+      "message": "Night Owl"
+   },
+   "titleprofilealwaysscreentab": {
+      "message": "Always enabled for all open tabs"
+   },
+   "titleprofilenovideofocus": {
+      "message": "Video focus is disabled"
+   },
+   "titleprofilescreenclick": {
+      "message": "เปิดใช้การคลิกเพื่อเชื่อมโยงหลายมิติเมื่อหน้าจอมืดลงแล้ว"
+   },
+   "titleprofilesubmit": {
+      "message": "Choose this settings"
+   },
+   "titleprofilevideofocus": {
+      "message": "Video focus is enabled"
+   },
+   "titleregularuser": {
+      "message": "Video Lover"
+   },
+   "titlescreenprotection": {
+      "message": "อุปกรณ์ป้องกันดวงตา"
+   },
+   "titleuserprofile": {
+      "message": "Below, choose the settings you want to use when clicking the gray lamp button. Each profile has its own features."
+   },
+   "top": {
+      "message": "ด้านบน"
+   },
+   "translateme": {
+      "message": "ช่วยแปล"
+   },
+   "trymotion": {
+      "message": "ลองด้วยตัวคุณเอง!"
+   },
+   "upgradecontextitemma": {
+      "message": "ปิดไฟด้วยมือของคุณ"
+   },
+   "upgradecontextitemmb": {
+      "message": "ควบคุมเว็บเพจได้แม่นยำมากขึ้น"
+   },
+   "upgradecontextitemta": {
+      "message": "การเคลื่อนไหวกล้อง"
+   },
+   "upgradecontextitemtb": {
+      "message": "การเรียนรู้จดจำเสียง"
+   },
+   "upgradecontextmessage": {
+      "message": "That makes this extension even more amazing"
+   },
+   "upgradecontexttitle": {
+      "message": "เราได้เพิ่มคุณลักษณะใหม่บางอย่างสำหรับคุณ"
+   },
+   "upgradefbshare": {
+      "message": "แชร์ไปยังเฟสบุ๊ค"
+   },
+   "upgradetwshare": {
+      "message": "ทวีท"
+   },
+   "version": {
+      "message": "รูปแบบที่"
+   },
+   "videotitle": {
+      "message": "โฟกัสภาพนี้"
+   },
+   "visualeffects": {
+      "message": "ลักษณะการแสดงผล"
+   },
+   "vtoolalign": {
+      "message": "A button to center the video player in your browser window"
+   },
+   "vtoolfilter": {
+      "message": "A button to add a filter in the current video player"
+   },
+   "vtoolfullscreen": {
+      "message": "A button to set the video player to the full window size"
+   },
+   "vtoolreplay": {
+      "message": "A button to replay the current video player"
+   },
+   "vtoolscreenshot": {
+      "message": "A button to take a screenshot of the current video player"
+   },
+   "vtoolvisualization": {
+      "message": "A button for displaying the audio-visualization for the current video player"
+   },
+   "warning": {
+      "message": "คำเตือน"
+   },
+   "warningtextambilight": {
+      "message": "When unable to receive video data because of a website's security rule, the chosen solid color will be used instead."
+   },
+   "writeareview": {
+      "message": "Write a review"
+   }
+}

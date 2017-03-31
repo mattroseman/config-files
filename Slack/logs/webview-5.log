@@ -1,0 +1,758 @@
+2017-03-09T03:37:59.771Z - info: updateSuspendResume: true
+2017-03-09T03:38:00.686Z - info: SET_TEAM_IDLE_TIMEOUT : {
+  "timeout": 14400,
+  "teamId": "T29BP9W7L"
+}
+2017-03-09T03:38:00.792Z - info: UPDATE_NO_DRAG_REGION : {
+  "region": {
+    "id": "search",
+    "width": 305,
+    "height": 34,
+    "top": 13.194443702697754,
+    "left": 1523.19873046875
+  }
+}
+2017-03-09T03:38:00.948Z - info: SELECT_CHANNEL : "C29BD38A1"
+2017-03-09T03:38:00.969Z - info: UPDATE_TEAM_THEME : {
+  "theme": {
+    "column_bg": "#544538",
+    "menu_bg": "#42362B",
+    "active_item": "#5DB09D",
+    "active_item_text": "#FFFFFF",
+    "hover_item": "#4A3C30",
+    "text_color": "#FFFFFF",
+    "active_presence": "#FFFFFF",
+    "badge": "#5DB09D"
+  },
+  "teamId": "T29BP9W7L"
+}
+2017-03-09T03:38:01.626Z - info: UPDATE_TEAM_ICONS : {
+  "icons": {
+    "image_34": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_34.jpg",
+    "image_44": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_44.jpg",
+    "image_68": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_68.jpg",
+    "image_88": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_88.jpg",
+    "image_102": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_102.jpg",
+    "image_132": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_132.jpg",
+    "image_230": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_230.jpg",
+    "image_original": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_original.jpg"
+  },
+  "teamId": "T29BP9W7L"
+}
+2017-03-09T03:38:01.840Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T29BP9W7L"
+}
+2017-03-09T03:38:02.036Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T29BP9W7L"
+}
+2017-03-09T03:38:02.071Z - info: Raw Locale list: ["C","en_US","en_US.iso88591","en_US.utf8","POSIX",""]
+2017-03-09T03:38:02.072Z - info: Filtered Locale list: ["en_US","en_US","en_US"]
+2017-03-09T03:38:02.072Z - info: Counts: {"en":["en_US","en_US","en_US"]}
+2017-03-09T03:38:02.072Z - info: Result: {"en":"en-US"}
+2017-03-09T03:38:02.074Z - info: Loading dictionary for language en-US
+2017-03-09T03:38:02.074Z - info: Returning local copy: /home/matthew/.config/Slack/dictionaries/en-US.bdic
+2017-03-09T03:38:02.081Z - info: Setting current spellchecker to en-US, requested language was en-US
+2017-03-09T03:38:02.082Z - info: Creating node-spellchecker instance
+2017-03-09T03:38:02.083Z - info: Actually installing spell check provider to Electron
+2017-03-09T03:38:02.959Z - info: Loading dictionary for language en-US
+2017-03-09T03:38:02.959Z - info: Returning local copy: /home/matthew/.config/Slack/dictionaries/en-US.bdic
+2017-03-09T03:38:02.960Z - info: Setting current spellchecker to en-US, requested language was en-US
+2017-03-09T04:48:32.668Z - info: UPDATE_TEAM_ICONS : {
+  "icons": {
+    "image_34": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_34.jpg",
+    "image_44": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_44.jpg",
+    "image_68": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_68.jpg",
+    "image_88": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_88.jpg",
+    "image_102": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_102.jpg",
+    "image_132": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_132.jpg",
+    "image_230": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_230.jpg",
+    "image_original": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_original.jpg"
+  },
+  "teamId": "T29BP9W7L"
+}
+2017-03-09T04:48:32.904Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T29BP9W7L"
+}
+2017-03-09T04:48:32.924Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T29BP9W7L"
+}
+2017-03-09T04:53:36.271Z - info: Unloading spellchecker
+2017-03-09T06:02:18.672Z - info: UPDATE_TEAM_ICONS : {
+  "icons": {
+    "image_34": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_34.jpg",
+    "image_44": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_44.jpg",
+    "image_68": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_68.jpg",
+    "image_88": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_88.jpg",
+    "image_102": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_102.jpg",
+    "image_132": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_132.jpg",
+    "image_230": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_230.jpg",
+    "image_original": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_original.jpg"
+  },
+  "teamId": "T29BP9W7L"
+}
+2017-03-09T06:02:18.905Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T29BP9W7L"
+}
+2017-03-09T06:02:18.946Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T29BP9W7L"
+}
+2017-03-09T19:44:44.060Z - info: Restoring spellchecker
+2017-03-09T19:44:44.063Z - info: Loading dictionary for language en-US
+2017-03-09T19:44:44.064Z - info: Returning local copy: /home/matthew/.config/Slack/dictionaries/en-US.bdic
+2017-03-09T19:44:44.077Z - info: Setting current spellchecker to en-US, requested language was en-US
+2017-03-09T19:44:44.077Z - info: Creating node-spellchecker instance
+2017-03-09T19:44:44.078Z - info: Actually installing spell check provider to Electron
+2017-03-09T19:44:46.212Z - info: Unloading spellchecker
+2017-03-09T19:44:50.551Z - info: UPDATE_TEAM_ICONS : {
+  "icons": {
+    "image_34": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_34.jpg",
+    "image_44": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_44.jpg",
+    "image_68": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_68.jpg",
+    "image_88": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_88.jpg",
+    "image_102": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_102.jpg",
+    "image_132": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_132.jpg",
+    "image_230": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_230.jpg",
+    "image_original": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_original.jpg"
+  },
+  "teamId": "T29BP9W7L"
+}
+2017-03-09T19:44:50.783Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T29BP9W7L"
+}
+2017-03-09T19:44:50.812Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T29BP9W7L"
+}
+2017-03-09T19:44:50.814Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T29BP9W7L"
+}
+2017-03-09T19:44:50.816Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T29BP9W7L"
+}
+2017-03-09T19:44:50.818Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 1,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T29BP9W7L"
+}
+2017-03-09T19:44:51.009Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 43,
+  "unreadHighlights": 1,
+  "showBullet": true,
+  "teamId": "T29BP9W7L"
+}
+2017-03-09T19:44:51.011Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 43,
+  "unreadHighlights": 1,
+  "showBullet": true,
+  "teamId": "T29BP9W7L"
+}
+2017-03-09T19:44:51.644Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 84,
+  "unreadHighlights": 1,
+  "showBullet": true,
+  "teamId": "T29BP9W7L"
+}
+2017-03-09T20:53:39.017Z - info: UPDATE_TEAM_ICONS : {
+  "icons": {
+    "image_34": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_34.jpg",
+    "image_44": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_44.jpg",
+    "image_68": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_68.jpg",
+    "image_88": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_88.jpg",
+    "image_102": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_102.jpg",
+    "image_132": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_132.jpg",
+    "image_230": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_230.jpg",
+    "image_original": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_original.jpg"
+  },
+  "teamId": "T29BP9W7L"
+}
+2017-03-09T20:53:39.226Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 84,
+  "unreadHighlights": 1,
+  "showBullet": true,
+  "teamId": "T29BP9W7L"
+}
+2017-03-09T20:53:39.328Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 84,
+  "unreadHighlights": 1,
+  "showBullet": true,
+  "teamId": "T29BP9W7L"
+}
+2017-03-10T03:38:48.257Z - info: UPDATE_TEAM_ICONS : {
+  "icons": {
+    "image_34": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_34.jpg",
+    "image_44": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_44.jpg",
+    "image_68": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_68.jpg",
+    "image_88": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_88.jpg",
+    "image_102": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_102.jpg",
+    "image_132": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_132.jpg",
+    "image_230": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_230.jpg",
+    "image_original": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_original.jpg"
+  },
+  "teamId": "T29BP9W7L"
+}
+2017-03-10T03:38:48.491Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 84,
+  "unreadHighlights": 1,
+  "showBullet": true,
+  "teamId": "T29BP9W7L"
+}
+2017-03-10T03:38:48.522Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 42,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T29BP9W7L"
+}
+2017-03-10T03:38:48.523Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 42,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T29BP9W7L"
+}
+2017-03-10T03:38:48.524Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 42,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T29BP9W7L"
+}
+2017-03-10T03:38:48.525Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 42,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T29BP9W7L"
+}
+2017-03-10T03:38:48.526Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T29BP9W7L"
+}
+2017-03-10T03:38:48.668Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 21,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T29BP9W7L"
+}
+2017-03-10T05:46:20.205Z - info: UPDATE_TEAM_ICONS : {
+  "icons": {
+    "image_34": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_34.jpg",
+    "image_44": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_44.jpg",
+    "image_68": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_68.jpg",
+    "image_88": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_88.jpg",
+    "image_102": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_102.jpg",
+    "image_132": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_132.jpg",
+    "image_230": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_230.jpg",
+    "image_original": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_original.jpg"
+  },
+  "teamId": "T29BP9W7L"
+}
+2017-03-10T05:46:20.476Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 21,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T29BP9W7L"
+}
+2017-03-10T05:46:20.505Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 21,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T29BP9W7L"
+}
+2017-03-10T05:50:38.534Z - info: Restoring spellchecker
+2017-03-10T05:50:38.537Z - info: Loading dictionary for language en-US
+2017-03-10T05:50:38.537Z - info: Returning local copy: /home/matthew/.config/Slack/dictionaries/en-US.bdic
+2017-03-10T05:50:38.549Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T29BP9W7L"
+}
+2017-03-10T05:50:38.598Z - info: Setting current spellchecker to en-US, requested language was en-US
+2017-03-10T05:50:38.598Z - info: Creating node-spellchecker instance
+2017-03-10T05:50:38.599Z - info: Actually installing spell check provider to Electron
+2017-03-10T05:50:45.078Z - info: Unloading spellchecker
+2017-03-10T15:43:45.875Z - info: UPDATE_TEAM_ICONS : {
+  "icons": {
+    "image_34": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_34.jpg",
+    "image_44": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_44.jpg",
+    "image_68": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_68.jpg",
+    "image_88": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_88.jpg",
+    "image_102": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_102.jpg",
+    "image_132": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_132.jpg",
+    "image_230": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_230.jpg",
+    "image_original": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_original.jpg"
+  },
+  "teamId": "T29BP9W7L"
+}
+2017-03-10T15:43:46.116Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T29BP9W7L"
+}
+2017-03-10T15:43:46.131Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T29BP9W7L"
+}
+2017-03-10T16:36:53.941Z - info: UPDATE_TEAM_ICONS : {
+  "icons": {
+    "image_34": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_34.jpg",
+    "image_44": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_44.jpg",
+    "image_68": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_68.jpg",
+    "image_88": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_88.jpg",
+    "image_102": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_102.jpg",
+    "image_132": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_132.jpg",
+    "image_230": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_230.jpg",
+    "image_original": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_original.jpg"
+  },
+  "teamId": "T29BP9W7L"
+}
+2017-03-10T16:36:54.166Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T29BP9W7L"
+}
+2017-03-10T16:36:54.180Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T29BP9W7L"
+}
+2017-03-10T16:40:09.035Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T29BP9W7L"
+}
+2017-03-10T16:51:08.464Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T29BP9W7L"
+}
+2017-03-10T17:17:40.342Z - info: UPDATE_TEAM_ICONS : {
+  "icons": {
+    "image_34": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_34.jpg",
+    "image_44": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_44.jpg",
+    "image_68": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_68.jpg",
+    "image_88": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_88.jpg",
+    "image_102": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_102.jpg",
+    "image_132": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_132.jpg",
+    "image_230": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_230.jpg",
+    "image_original": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_original.jpg"
+  },
+  "teamId": "T29BP9W7L"
+}
+2017-03-10T17:17:40.557Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T29BP9W7L"
+}
+2017-03-10T17:17:40.870Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T29BP9W7L"
+}
+2017-03-10T17:17:40.871Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 3,
+  "unreadHighlights": 3,
+  "showBullet": true,
+  "teamId": "T29BP9W7L"
+}
+2017-03-10T19:15:37.365Z - info: UPDATE_TEAM_ICONS : {
+  "icons": {
+    "image_34": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_34.jpg",
+    "image_44": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_44.jpg",
+    "image_68": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_68.jpg",
+    "image_88": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_88.jpg",
+    "image_102": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_102.jpg",
+    "image_132": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_132.jpg",
+    "image_230": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_230.jpg",
+    "image_original": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_original.jpg"
+  },
+  "teamId": "T29BP9W7L"
+}
+2017-03-10T19:15:37.607Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 3,
+  "unreadHighlights": 3,
+  "showBullet": true,
+  "teamId": "T29BP9W7L"
+}
+2017-03-10T19:15:37.638Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 3,
+  "unreadHighlights": 3,
+  "showBullet": true,
+  "teamId": "T29BP9W7L"
+}
+2017-03-10T19:15:37.639Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T29BP9W7L"
+}
+2017-03-10T19:17:02.056Z - info: Restoring spellchecker
+2017-03-10T19:17:02.059Z - info: Loading dictionary for language en-US
+2017-03-10T19:17:02.060Z - info: Returning local copy: /home/matthew/.config/Slack/dictionaries/en-US.bdic
+2017-03-10T19:17:02.070Z - info: Setting current spellchecker to en-US, requested language was en-US
+2017-03-10T19:17:02.070Z - info: Creating node-spellchecker instance
+2017-03-10T19:17:02.071Z - info: Actually installing spell check provider to Electron
+2017-03-10T19:17:04.493Z - info: UPDATE_NO_DRAG_REGION : {
+  "region": {
+    "id": "search",
+    "width": 333,
+    "height": 34,
+    "top": 13.194443702697754,
+    "left": 1465.6141357421875
+  }
+}
+2017-03-10T19:17:10.055Z - info: SELECT_CHANNEL : "C2BS7BFJ8"
+2017-03-10T19:17:10.108Z - info: UPDATE_NO_DRAG_REGION : {
+  "region": {
+    "id": "search",
+    "width": 275,
+    "height": 34,
+    "top": 13.194443702697754,
+    "left": 1523.19873046875
+  }
+}
+2017-03-10T19:17:10.621Z - info: SELECT_CHANNEL : "C29B6B4NL"
+2017-03-10T19:17:11.129Z - info: SELECT_CHANNEL : "G3SA7LBJT"
+2017-03-10T19:17:12.021Z - info: SELECT_CHANNEL : "C29BD38A1"
+2017-03-10T19:17:12.367Z - info: Loading dictionary for language en-US
+2017-03-10T19:17:12.368Z - info: Returning local copy: /home/matthew/.config/Slack/dictionaries/en-US.bdic
+2017-03-10T19:17:12.369Z - info: Loading dictionary for language en-US
+2017-03-10T19:17:12.369Z - info: Returning local copy: /home/matthew/.config/Slack/dictionaries/en-US.bdic
+2017-03-10T19:17:12.370Z - info: Setting current spellchecker to en-US, requested language was en-US
+2017-03-10T19:17:12.371Z - info: Setting current spellchecker to en-US, requested language was en-US
+2017-03-10T19:17:12.608Z - info: SELECT_CHANNEL : "C3BTRTDS7"
+2017-03-10T19:17:16.643Z - info: Failed to get messages from webapp: Failed to fetch recent messages
+2017-03-10T19:17:17.130Z - info: Failed to get messages from webapp: Failed to fetch recent messages
+2017-03-10T19:17:18.609Z - info: Failed to get messages from webapp: Failed to fetch recent messages
+2017-03-10T19:17:52.900Z - info: Unloading spellchecker
+2017-03-10T19:17:53.002Z - info: Restoring spellchecker
+2017-03-10T19:17:53.004Z - info: Loading dictionary for language en-US
+2017-03-10T19:17:53.004Z - info: Returning local copy: /home/matthew/.config/Slack/dictionaries/en-US.bdic
+2017-03-10T19:17:53.009Z - info: Setting current spellchecker to en-US, requested language was en-US
+2017-03-10T19:17:53.009Z - info: Creating node-spellchecker instance
+2017-03-10T19:17:53.009Z - info: Actually installing spell check provider to Electron
+2017-03-10T19:17:56.090Z - info: SELECT_CHANNEL : "C2BB0FG85"
+2017-03-10T19:17:56.416Z - info: Loading dictionary for language en-US
+2017-03-10T19:17:56.416Z - info: Returning local copy: /home/matthew/.config/Slack/dictionaries/en-US.bdic
+2017-03-10T19:17:56.417Z - info: Setting current spellchecker to en-US, requested language was en-US
+2017-03-10T19:17:57.013Z - info: SELECT_CHANNEL : "C29B6B4NL"
+2017-03-10T19:17:57.240Z - info: Loading dictionary for language en-US
+2017-03-10T19:17:57.240Z - info: Returning local copy: /home/matthew/.config/Slack/dictionaries/en-US.bdic
+2017-03-10T19:17:57.245Z - info: Setting current spellchecker to en-US, requested language was en-US
+2017-03-10T19:17:57.470Z - info: SELECT_CHANNEL : "G3ERU1ECD"
+2017-03-10T19:17:57.927Z - info: SELECT_CHANNEL : "C2BS7BFJ8"
+2017-03-10T19:17:59.484Z - info: Unloading spellchecker
+2017-03-10T19:18:03.499Z - info: Failed to get messages from webapp: Failed to fetch recent messages
+2017-03-10T19:18:03.928Z - info: Failed to get messages from webapp: Failed to fetch recent messages
+2017-03-10T19:18:47.248Z - info: Restoring spellchecker
+2017-03-10T19:18:47.249Z - info: Loading dictionary for language en-US
+2017-03-10T19:18:47.249Z - info: Returning local copy: /home/matthew/.config/Slack/dictionaries/en-US.bdic
+2017-03-10T19:18:47.260Z - info: Setting current spellchecker to en-US, requested language was en-US
+2017-03-10T19:18:47.260Z - info: Creating node-spellchecker instance
+2017-03-10T19:18:47.261Z - info: Actually installing spell check provider to Electron
+2017-03-10T19:18:48.504Z - info: SELECT_CHANNEL : "C29BD38A1"
+2017-03-10T19:18:48.817Z - info: Loading dictionary for language en-US
+2017-03-10T19:18:48.818Z - info: Returning local copy: /home/matthew/.config/Slack/dictionaries/en-US.bdic
+2017-03-10T19:18:48.820Z - info: Setting current spellchecker to en-US, requested language was en-US
+2017-03-10T19:18:50.343Z - info: SELECT_CHANNEL : "C3BTRTDS7"
+2017-03-10T19:18:50.813Z - info: SELECT_CHANNEL : "C2BB0FG85"
+2017-03-10T19:18:50.913Z - info: Loading dictionary for language en-US
+2017-03-10T19:18:50.913Z - info: Returning local copy: /home/matthew/.config/Slack/dictionaries/en-US.bdic
+2017-03-10T19:18:50.914Z - info: Setting current spellchecker to en-US, requested language was en-US
+2017-03-10T19:18:52.358Z - info: Loading dictionary for language en-US
+2017-03-10T19:18:52.358Z - info: Returning local copy: /home/matthew/.config/Slack/dictionaries/en-US.bdic
+2017-03-10T19:18:52.359Z - info: Setting current spellchecker to en-US, requested language was en-US
+2017-03-10T19:18:53.227Z - info: SELECT_CHANNEL : "G3Y0DVBFC"
+2017-03-10T19:18:55.072Z - info: SELECT_CHANNEL : "C2BS7BFJ8"
+2017-03-10T19:18:55.705Z - info: SELECT_CHANNEL : "G3ERU1ECD"
+2017-03-10T19:18:56.098Z - info: SELECT_CHANNEL : "G3SA7LBJT"
+2017-03-10T19:18:57.439Z - info: SELECT_CHANNEL : "C3BTRTDS7"
+2017-03-10T19:18:58.153Z - info: SELECT_CHANNEL : "C29BD38A1"
+2017-03-10T19:18:58.466Z - info: Loading dictionary for language en-US
+2017-03-10T19:18:58.466Z - info: Returning local copy: /home/matthew/.config/Slack/dictionaries/en-US.bdic
+2017-03-10T19:18:58.467Z - info: Setting current spellchecker to en-US, requested language was en-US
+2017-03-10T19:18:59.087Z - info: Loading dictionary for language en-US
+2017-03-10T19:18:59.087Z - info: Returning local copy: /home/matthew/.config/Slack/dictionaries/en-US.bdic
+2017-03-10T19:18:59.088Z - info: Setting current spellchecker to en-US, requested language was en-US
+2017-03-10T19:18:59.228Z - info: Failed to get messages from webapp: Failed to fetch recent messages
+2017-03-10T19:18:59.454Z - info: Loading dictionary for language en-US
+2017-03-10T19:18:59.454Z - info: Returning local copy: /home/matthew/.config/Slack/dictionaries/en-US.bdic
+2017-03-10T19:18:59.455Z - info: Setting current spellchecker to en-US, requested language was en-US
+2017-03-10T19:18:59.722Z - info: Loading dictionary for language en-US
+2017-03-10T19:18:59.722Z - info: Returning local copy: /home/matthew/.config/Slack/dictionaries/en-US.bdic
+2017-03-10T19:18:59.723Z - info: Setting current spellchecker to en-US, requested language was en-US
+2017-03-10T19:19:00.113Z - info: Loading dictionary for language en-US
+2017-03-10T19:19:00.113Z - info: Returning local copy: /home/matthew/.config/Slack/dictionaries/en-US.bdic
+2017-03-10T19:19:00.114Z - info: Setting current spellchecker to en-US, requested language was en-US
+2017-03-10T19:19:03.601Z - info: Unloading spellchecker
+2017-03-10T19:23:09.294Z - info: Restoring spellchecker
+2017-03-10T19:23:09.295Z - info: Loading dictionary for language en-US
+2017-03-10T19:23:09.295Z - info: Returning local copy: /home/matthew/.config/Slack/dictionaries/en-US.bdic
+2017-03-10T19:23:09.302Z - info: Setting current spellchecker to en-US, requested language was en-US
+2017-03-10T19:23:09.302Z - info: Creating node-spellchecker instance
+2017-03-10T19:23:09.302Z - info: Actually installing spell check provider to Electron
+2017-03-10T19:23:12.853Z - info: SELECT_CHANNEL : "D29BJTSRF"
+2017-03-10T19:23:13.188Z - info: Loading dictionary for language en-US
+2017-03-10T19:23:13.188Z - info: Returning local copy: /home/matthew/.config/Slack/dictionaries/en-US.bdic
+2017-03-10T19:23:13.189Z - info: Setting current spellchecker to en-US, requested language was en-US
+2017-03-10T19:23:15.617Z - info: Unloading spellchecker
+2017-03-10T19:33:12.054Z - info: Restoring spellchecker
+2017-03-10T19:33:12.054Z - info: Loading dictionary for language en-US
+2017-03-10T19:33:12.054Z - info: Returning local copy: /home/matthew/.config/Slack/dictionaries/en-US.bdic
+2017-03-10T19:33:12.060Z - info: Setting current spellchecker to en-US, requested language was en-US
+2017-03-10T19:33:12.060Z - info: Creating node-spellchecker instance
+2017-03-10T19:33:12.061Z - info: Actually installing spell check provider to Electron
+2017-03-10T19:33:31.314Z - info: Unloading spellchecker
+2017-03-10T19:34:53.798Z - info: Restoring spellchecker
+2017-03-10T19:34:53.798Z - info: Loading dictionary for language en-US
+2017-03-10T19:34:53.798Z - info: Returning local copy: /home/matthew/.config/Slack/dictionaries/en-US.bdic
+2017-03-10T19:34:53.805Z - info: Setting current spellchecker to en-US, requested language was en-US
+2017-03-10T19:34:53.805Z - info: Creating node-spellchecker instance
+2017-03-10T19:34:53.805Z - info: Actually installing spell check provider to Electron
+2017-03-10T19:35:06.198Z - info: Unloading spellchecker
+2017-03-10T21:28:45.430Z - info: UPDATE_TEAM_ICONS : {
+  "icons": {
+    "image_34": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_34.jpg",
+    "image_44": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_44.jpg",
+    "image_68": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_68.jpg",
+    "image_88": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_88.jpg",
+    "image_102": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_102.jpg",
+    "image_132": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_132.jpg",
+    "image_230": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_230.jpg",
+    "image_original": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_original.jpg"
+  },
+  "teamId": "T29BP9W7L"
+}
+2017-03-10T21:28:45.655Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T29BP9W7L"
+}
+2017-03-10T21:28:45.693Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T29BP9W7L"
+}
+2017-03-10T21:29:08.638Z - info: Restoring spellchecker
+2017-03-10T21:29:08.639Z - info: Loading dictionary for language en-US
+2017-03-10T21:29:08.639Z - info: Returning local copy: /home/matthew/.config/Slack/dictionaries/en-US.bdic
+2017-03-10T21:29:08.647Z - info: Setting current spellchecker to en-US, requested language was en-US
+2017-03-10T21:29:08.647Z - info: Creating node-spellchecker instance
+2017-03-10T21:29:08.647Z - info: Actually installing spell check provider to Electron
+2017-03-10T21:29:21.578Z - info: Unloading spellchecker
+2017-03-10T21:29:21.585Z - info: Restoring spellchecker
+2017-03-10T21:29:21.586Z - info: Loading dictionary for language en-US
+2017-03-10T21:29:21.586Z - info: Returning local copy: /home/matthew/.config/Slack/dictionaries/en-US.bdic
+2017-03-10T21:29:21.590Z - info: Setting current spellchecker to en-US, requested language was en-US
+2017-03-10T21:29:21.590Z - info: Creating node-spellchecker instance
+2017-03-10T21:29:21.590Z - info: Actually installing spell check provider to Electron
+2017-03-11T21:33:57.113Z - info: Unloading spellchecker
+2017-03-11T21:34:31.448Z - info: UPDATE_TEAM_ICONS : {
+  "icons": {
+    "image_34": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_34.jpg",
+    "image_44": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_44.jpg",
+    "image_68": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_68.jpg",
+    "image_88": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_88.jpg",
+    "image_102": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_102.jpg",
+    "image_132": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_132.jpg",
+    "image_230": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_230.jpg",
+    "image_original": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-09-13/79228153315_4dad646daf780543e6a2_original.jpg"
+  },
+  "teamId": "T29BP9W7L"
+}
+2017-03-11T21:34:31.693Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T29BP9W7L"
+}
+2017-03-11T21:34:31.717Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T29BP9W7L"
+}
+2017-03-11T21:34:31.718Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 0,
+  "unreadHighlights": 0,
+  "showBullet": true,
+  "teamId": "T29BP9W7L"
+}
+2017-03-11T21:34:31.718Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 1,
+  "unreadHighlights": 1,
+  "showBullet": true,
+  "teamId": "T29BP9W7L"
+}
+2017-03-11T21:34:31.784Z - info: UPDATE_UNREADS_INFO : {
+  "unreads": 6,
+  "unreadHighlights": 1,
+  "showBullet": true,
+  "teamId": "T29BP9W7L"
+}
+2017-03-11T21:34:54.763Z - info: Restoring spellchecker
+2017-03-11T21:34:54.764Z - info: Loading dictionary for language en-US
+2017-03-11T21:34:54.764Z - info: Returning local copy: /home/matthew/.config/Slack/dictionaries/en-US.bdic
+2017-03-11T21:34:54.817Z - info: Setting current spellchecker to en-US, requested language was en-US
+2017-03-11T21:34:54.817Z - info: Creating node-spellchecker instance
+2017-03-11T21:34:54.818Z - info: Actually installing spell check provider to Electron
+2017-03-11T21:34:58.380Z - info: Unloading spellchecker
+2017-03-11T21:35:06.125Z - info: Restoring spellchecker
+2017-03-11T21:35:06.125Z - info: Loading dictionary for language en-US
+2017-03-11T21:35:06.125Z - info: Returning local copy: /home/matthew/.config/Slack/dictionaries/en-US.bdic
+2017-03-11T21:35:06.126Z - info: Setting current spellchecker to en-US, requested language was en-US
+2017-03-11T21:35:06.126Z - info: Creating node-spellchecker instance
+2017-03-11T21:35:06.127Z - info: Actually installing spell check provider to Electron
+2017-03-11T21:35:09.423Z - info: Unloading spellchecker
+2017-03-11T21:35:15.117Z - info: Restoring spellchecker
+2017-03-11T21:35:15.117Z - info: Loading dictionary for language en-US
+2017-03-11T21:35:15.118Z - info: Returning local copy: /home/matthew/.config/Slack/dictionaries/en-US.bdic
+2017-03-11T21:35:15.126Z - info: Setting current spellchecker to en-US, requested language was en-US
+2017-03-11T21:35:15.126Z - info: Creating node-spellchecker instance
+2017-03-11T21:35:15.127Z - info: Actually installing spell check provider to Electron
+2017-03-11T21:35:19.318Z - info: Unloading spellchecker
+2017-03-11T21:35:20.195Z - info: Restoring spellchecker
+2017-03-11T21:35:20.195Z - info: Loading dictionary for language en-US
+2017-03-11T21:35:20.195Z - info: Returning local copy: /home/matthew/.config/Slack/dictionaries/en-US.bdic
+2017-03-11T21:35:20.202Z - info: Setting current spellchecker to en-US, requested language was en-US
+2017-03-11T21:35:20.202Z - info: Creating node-spellchecker instance
+2017-03-11T21:35:20.203Z - info: Actually installing spell check provider to Electron
+2017-03-11T21:35:20.560Z - info: Unloading spellchecker
+2017-03-11T21:35:22.276Z - info: Restoring spellchecker
+2017-03-11T21:35:22.277Z - info: Loading dictionary for language en-US
+2017-03-11T21:35:22.277Z - info: Returning local copy: /home/matthew/.config/Slack/dictionaries/en-US.bdic
+2017-03-11T21:35:22.285Z - info: Setting current spellchecker to en-US, requested language was en-US
+2017-03-11T21:35:22.285Z - info: Creating node-spellchecker instance
+2017-03-11T21:35:22.285Z - info: Actually installing spell check provider to Electron
+2017-03-11T21:35:22.826Z - info: Unloading spellchecker
+2017-03-11T21:35:25.582Z - info: Restoring spellchecker
+2017-03-11T21:35:25.583Z - info: Loading dictionary for language en-US
+2017-03-11T21:35:25.583Z - info: Returning local copy: /home/matthew/.config/Slack/dictionaries/en-US.bdic
+2017-03-11T21:35:25.589Z - info: Setting current spellchecker to en-US, requested language was en-US
+2017-03-11T21:35:25.589Z - info: Creating node-spellchecker instance
+2017-03-11T21:35:25.590Z - info: Actually installing spell check provider to Electron
+2017-03-11T21:35:26.236Z - info: Unloading spellchecker
+2017-03-11T21:35:27.518Z - info: Restoring spellchecker
+2017-03-11T21:35:27.518Z - info: Loading dictionary for language en-US
+2017-03-11T21:35:27.518Z - info: Returning local copy: /home/matthew/.config/Slack/dictionaries/en-US.bdic
+2017-03-11T21:35:27.527Z - info: Setting current spellchecker to en-US, requested language was en-US
+2017-03-11T21:35:27.527Z - info: Creating node-spellchecker instance
+2017-03-11T21:35:27.527Z - info: Actually installing spell check provider to Electron
+2017-03-11T21:35:28.091Z - info: Unloading spellchecker
+2017-03-11T21:35:29.020Z - info: Restoring spellchecker
+2017-03-11T21:35:29.022Z - info: Loading dictionary for language en-US
+2017-03-11T21:35:29.022Z - info: Returning local copy: /home/matthew/.config/Slack/dictionaries/en-US.bdic
+2017-03-11T21:35:29.023Z - info: Setting current spellchecker to en-US, requested language was en-US
+2017-03-11T21:35:29.023Z - info: Creating node-spellchecker instance
+2017-03-11T21:35:29.024Z - info: Actually installing spell check provider to Electron
+2017-03-11T21:35:29.504Z - info: Unloading spellchecker
+2017-03-11T21:35:31.371Z - info: Restoring spellchecker
+2017-03-11T21:35:31.371Z - info: Loading dictionary for language en-US
+2017-03-11T21:35:31.371Z - info: Returning local copy: /home/matthew/.config/Slack/dictionaries/en-US.bdic
+2017-03-11T21:35:31.372Z - info: Setting current spellchecker to en-US, requested language was en-US
+2017-03-11T21:35:31.373Z - info: Creating node-spellchecker instance
+2017-03-11T21:35:31.373Z - info: Actually installing spell check provider to Electron
+2017-03-11T21:35:33.209Z - info: Unloading spellchecker
+2017-03-11T21:35:34.165Z - info: Restoring spellchecker
+2017-03-11T21:35:34.166Z - info: Loading dictionary for language en-US
+2017-03-11T21:35:34.166Z - info: Returning local copy: /home/matthew/.config/Slack/dictionaries/en-US.bdic
+2017-03-11T21:35:34.181Z - info: Setting current spellchecker to en-US, requested language was en-US
+2017-03-11T21:35:34.181Z - info: Creating node-spellchecker instance
+2017-03-11T21:35:34.181Z - info: Actually installing spell check provider to Electron
+2017-03-11T21:35:34.459Z - info: Unloading spellchecker
+2017-03-11T21:35:36.304Z - info: Restoring spellchecker
+2017-03-11T21:35:36.304Z - info: Loading dictionary for language en-US
+2017-03-11T21:35:36.304Z - info: Returning local copy: /home/matthew/.config/Slack/dictionaries/en-US.bdic
+2017-03-11T21:35:36.312Z - info: Setting current spellchecker to en-US, requested language was en-US
+2017-03-11T21:35:36.312Z - info: Creating node-spellchecker instance
+2017-03-11T21:35:36.313Z - info: Actually installing spell check provider to Electron
+2017-03-11T21:36:17.894Z - info: Unloading spellchecker
+2017-03-11T21:36:18.740Z - info: Restoring spellchecker
+2017-03-11T21:36:18.740Z - info: Loading dictionary for language en-US
+2017-03-11T21:36:18.740Z - info: Returning local copy: /home/matthew/.config/Slack/dictionaries/en-US.bdic
+2017-03-11T21:36:18.747Z - info: Setting current spellchecker to en-US, requested language was en-US
+2017-03-11T21:36:18.747Z - info: Creating node-spellchecker instance
+2017-03-11T21:36:18.747Z - info: Actually installing spell check provider to Electron
+2017-03-11T21:36:19.296Z - info: Unloading spellchecker
+2017-03-11T21:36:19.619Z - info: Restoring spellchecker
+2017-03-11T21:36:19.620Z - info: Loading dictionary for language en-US
+2017-03-11T21:36:19.620Z - info: Returning local copy: /home/matthew/.config/Slack/dictionaries/en-US.bdic
+2017-03-11T21:36:19.628Z - info: Setting current spellchecker to en-US, requested language was en-US
+2017-03-11T21:36:19.628Z - info: Creating node-spellchecker instance
+2017-03-11T21:36:19.628Z - info: Actually installing spell check provider to Electron
+2017-03-11T21:36:21.688Z - info: Unloading spellchecker
+2017-03-11T21:36:22.013Z - info: Restoring spellchecker
+2017-03-11T21:36:22.014Z - info: Loading dictionary for language en-US
+2017-03-11T21:36:22.014Z - info: Returning local copy: /home/matthew/.config/Slack/dictionaries/en-US.bdic
+2017-03-11T21:36:22.018Z - info: Setting current spellchecker to en-US, requested language was en-US
+2017-03-11T21:36:22.018Z - info: Creating node-spellchecker instance
+2017-03-11T21:36:22.019Z - info: Actually installing spell check provider to Electron
+2017-03-11T21:36:22.809Z - info: Unloading spellchecker
+2017-03-11T21:36:23.665Z - info: Restoring spellchecker
+2017-03-11T21:36:23.666Z - info: Loading dictionary for language en-US
+2017-03-11T21:36:23.666Z - info: Returning local copy: /home/matthew/.config/Slack/dictionaries/en-US.bdic
+2017-03-11T21:36:23.675Z - info: Setting current spellchecker to en-US, requested language was en-US
+2017-03-11T21:36:23.675Z - info: Creating node-spellchecker instance
+2017-03-11T21:36:23.676Z - info: Actually installing spell check provider to Electron
+2017-03-11T21:36:24.076Z - info: Unloading spellchecker
+2017-03-11T21:36:25.035Z - info: Restoring spellchecker
+2017-03-11T21:36:25.036Z - info: Loading dictionary for language en-US
+2017-03-11T21:36:25.036Z - info: Returning local copy: /home/matthew/.config/Slack/dictionaries/en-US.bdic
+2017-03-11T21:36:25.044Z - info: Setting current spellchecker to en-US, requested language was en-US
+2017-03-11T21:36:25.044Z - info: Creating node-spellchecker instance
+2017-03-11T21:36:25.044Z - info: Actually installing spell check provider to Electron
+2017-03-11T21:36:25.756Z - info: Unloading spellchecker
+2017-03-11T21:36:26.437Z - info: Restoring spellchecker
+2017-03-11T21:36:26.438Z - info: Loading dictionary for language en-US
+2017-03-11T21:36:26.438Z - info: Returning local copy: /home/matthew/.config/Slack/dictionaries/en-US.bdic
+2017-03-11T21:36:26.447Z - info: Setting current spellchecker to en-US, requested language was en-US
+2017-03-11T21:36:26.447Z - info: Creating node-spellchecker instance
+2017-03-11T21:36:26.448Z - info: Actually installing spell check provider to Electron
+2017-03-11T21:36:28.223Z - info: Unloading spellchecker
+2017-03-11T21:36:33.911Z - info: Restoring spellchecker
+2017-03-11T21:36:33.911Z - info: Loading dictionary for language en-US
+2017-03-11T21:36:33.911Z - info: Returning local copy: /home/matthew/.config/Slack/dictionaries/en-US.bdic
+2017-03-11T21:36:33.920Z - info: Setting current spellchecker to en-US, requested language was en-US
+2017-03-11T21:36:33.920Z - info: Creating node-spellchecker instance
+2017-03-11T21:36:33.921Z - info: Actually installing spell check provider to Electron
+2017-03-11T21:36:35.091Z - info: Unloading spellchecker

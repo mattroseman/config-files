@@ -1,0 +1,1056 @@
+{
+   "about": {
+      "message": "Tentang"
+   },
+   "addbutton": {
+      "message": "Tambahkan"
+   },
+   "advancedoptions": {
+      "message": "Pilihan Lanjutan"
+   },
+   "areyouhappy": {
+      "message": "Apakah anda senang dengan Turn Off the Lights?"
+   },
+   "basicsettings": {
+      "message": "Dasar-dasar"
+   },
+   "bottom": {
+      "message": "bawah"
+   },
+   "changelog": {
+      "message": "Changelog"
+   },
+   "deletebutton": {
+      "message": "Hapus"
+   },
+   "des1checkmotion": {
+      "message": "Pastikan bahwa ruangan Anda tidak gelap dan memiliki cukup cahaya."
+   },
+   "des2checkmotion": {
+      "message": "Kamera Anda harus tidak terpapar sinar matahari langsung."
+   },
+   "des3checkmotion": {
+      "message": "Anda menggunakan kamera depan."
+   },
+   "desaddvideobutton": {
+      "message": "Menampilkan tombol 'tambahkan' dari video YouTube ini."
+   },
+   "desalllightsoff": {
+      "message": "Mengklik tombol lampu akan memunculkan tanda untuk menyalakan/mematikan lampu pada semua  tab yang terbuka"
+   },
+   "desambilight": {
+      "message": "Tunjukkan effect cahaya sekitar untuk video yang sedang dimainkan."
+   },
+   "desambilight4color": {
+      "message": "Empat (4) warna pilihan disekeliling video:"
+   },
+   "desambilightfixcolor": {
+      "message": "Warna umum."
+   },
+   "desambilightrangeblurradius": {
+      "message": "Nilai lebih rendah akan mempertajam bayangan, nilai yang lebih tinggi akan membuatnya lebih kabur."
+   },
+   "desambilightrangespreadradius": {
+      "message": "Nilai positif memperbesar ukuran bayangan, negatif sebaliknya."
+   },
+   "desambilightvarcolor": {
+      "message": "Ambil warna dari video."
+   },
+   "desapause": {
+      "message": "pause"
+   },
+   "desapitext": {
+      "message": "Wiki API untuk Situs Pengembang"
+   },
+   "desaplay": {
+      "message": "play"
+   },
+   "desastop": {
+      "message": "stop"
+   },
+   "desatmosphereonly": {
+      "message": "Menggunakan fitur pencahayaan terhadap keadaan sekitar hanya pada situs video berikut:"
+   },
+   "desatmosvivid": {
+      "message": "Vivid atmosphere effects, require"
+   },
+   "desauroraplayer": {
+      "message": "Pemain pencahayaan ruangan juga tersedia untuk komputer."
+   },
+   "desautoplay": {
+      "message": "Secara otomatis redup latar belakang saat Anda mengklik tombol play dan versus."
+   },
+   "desautoplaydelay": {
+      "message": "Mempercerah latar belakang nya lagi ketika video telah berakhir sesudahnya"
+   },
+   "desautoplaydelayend": {
+      "message": "detik"
+   },
+   "desautoplayonly": {
+      "message": "Redupkan layar hanya pada situs video berikut:"
+   },
+   "desautostop": {
+      "message": "Berhenti memutar video secara otomatis saat saya membuka laman web."
+   },
+   "desautostoponly": {
+      "message": "Aktifkan fungsi berhenti putar otomatis video hanya di situs berikut:\n"
+   },
+   "desbrowserextension": {
+      "message": "Ekstensi peramban"
+   },
+   "desbrowsersupport": {
+      "message": "Browser ini belum mendukung fitur ini. Pastikan Anda memiliki versi terakhir dari browser pada komputer anda."
+   },
+   "desbrowsertheme": {
+      "message": "tema peramban"
+   },
+   "descammotiononly": {
+      "message": "Nyalakan Gerak Kamera hanya pada site berikut:"
+   },
+   "desconfirmpassword": {
+      "message": "Konfirmasi sandi"
+   },
+   "desconfirmtime": {
+      "message": "Konfirmasi waktu"
+   },
+   "desconfirmtimesaver": {
+      "message": "Mengkonfirmasikan waktu Penghemat Layar"
+   },
+   "descontextmenus": {
+      "message": "Tampilkan menu konteks untuk fokus huruf a."
+   },
+   "description": {
+      "message": "The entire page will be fading to dark, so you can watch the videos as if you were in the cinema. Works for YouTube™ and Beyond."
+   },
+   "desdynamicblocks": {
+      "message": "Membatasi"
+   },
+   "desdynamiccloud": {
+      "message": "Awan Bergerak"
+   },
+   "desdynamicdotscolor": {
+      "message": "Bintik bintik berwarna"
+   },
+   "desdynamicfishtank": {
+      "message": "Akuarium"
+   },
+   "desdynamicraindrops": {
+      "message": "Rintik hujan"
+   },
+   "desdynamicsmoke": {
+      "message": "Asap"
+   },
+   "desdynamicspace": {
+      "message": "Jarak"
+   },
+   "desdynamicstars": {
+      "message": "Bintang-bintang"
+   },
+   "desdynamicstorm": {
+      "description": "Badai",
+      "message": "Badai"
+   },
+   "desdynamictriangulation": {
+      "message": "Triangulasi"
+   },
+   "deseastereggs": {
+      "message": "Tekan tombol T untuk menambahkan tirai teater pada lapisan gelap"
+   },
+   "desenterpassword": {
+      "message": "Masukkan kata sandi Anda dalam kotak di bawah ini:"
+   },
+   "deseyea": {
+      "message": "Redupkan latar belakang secara otomatis saat membuka halaman situs"
+   },
+   "deseyealist": {
+      "message": "Redupkan latar belakang secara otomatis pada situs berikut:"
+   },
+   "deseyen": {
+      "message": "Pemakaian normal (lampu akan muncul pada saat anda mengklik nyalakan pada  ikon lampu)"
+   },
+   "deseyetimesaver": {
+      "message": "Ketika halaman sedang tidak aktif (tidak ada mouse ataupun aktivitas keyboard) untuk durasi waktu yang ditentukan dibawah ini, secara otomatis akan menjadi gelap."
+   },
+   "desfadein": {
+      "message": "Tampilkan efek memudar."
+   },
+   "desfadeout": {
+      "message": "Tampilkan efek fade out."
+   },
+   "desflash": {
+      "message": "Tampilkan semua objek Flash."
+   },
+   "deshardflash": {
+      "message": "Tampilkan semua objek Flash, tidak menghiraukan URL filter. Ini akan memperbaiki masalah dengan beberapa pemutar video yang tersembunyi, tetapi juga dapat menampilkan iklan."
+   },
+   "deshead": {
+      "message": "Tampilkan bar YouTube Channel atau nama."
+   },
+   "deshovervideo": {
+      "message": "Hover your mouse on the video element for certain number of seconds, after which the webpage automatically dims"
+   },
+   "desinfobar": {
+      "message": "Tampilkan informasi deskripsi tentang video."
+   },
+   "deslampandnightmode": {
+      "message": "Aktifkan 'Night Mode' saat anda klik pada tombol lampu abu-abu."
+   },
+   "deslikebar": {
+      "message": "Tampilkan bagian suka/tidak suka di bawah video YouTube."
+   },
+   "deslikebutton": {
+      "message": "Tampilkan tombol suka dan tidak suka milik Youtube untuk video ini."
+   },
+   "desmobileapp": {
+      "message": "Turn Off the Lights juga tersedia untuk ponsel anda."
+   },
+   "desmotion": {
+      "message": "Aktifkan gerakan kamera"
+   },
+   "desmotionChecklist": {
+      "message": "Ceklist:"
+   },
+   "desmousespotlighta": {
+      "message": "Jika lampu mati, ubah kursor menjadi lampu petunjuk."
+   },
+   "desmousespotlightc": {
+      "message": "Jika cahaya mati, Anda dapat memilih area yang difokuskan."
+   },
+   "desmousespotlighto": {
+      "message": "Penggunaan tetikus secara normal (pengaturan di bawah ini akan dinonaktifkan)"
+   },
+   "desmousespotlights": {
+      "message": "Enable the screen shade, with the possibility to click on the hyperlinks"
+   },
+   "desmousespotlightt": {
+      "message": "Mengaktifkan klik hyperlink ketika layar digelapkan"
+   },
+   "desnightactivetime": {
+      "message": "Tombol akan terlihat pada waktu-waktu berikut:"
+   },
+   "desnightenabletheme": {
+      "message": "Ketika Anda membuka halaman baru itu pergi otomatis ke modus malam."
+   },
+   "desnighthover": {
+      "message": "Tunjukkan transparent switch pada laman."
+   },
+   "desnightonly": {
+      "message": "Menunjukkan modus malam hanya situs berikut:"
+   },
+   "desnightowl": {
+      "message": "One click converts the page directly into a night theme with a clickable hyperlink. Click it again to return to normal view. Click the lamp button again to disable this feature."
+   },
+   "desnighttheme": {
+      "message": "Menunjukkan tombol switch malam di bawah halaman web untuk membuat halaman gelap atau terang."
+   },
+   "desnoflash": {
+      "message": "Jangan menggunakan fitur ini."
+   },
+   "despassword": {
+      "message": "Kata sandi akan diperlukan sebelum menyalakan lampu kembali."
+   },
+   "desplaylist": {
+      "message": "Tampilkan playlist YouTube di situs YouTube."
+   },
+   "desproject": {
+      "message": "proyek"
+   },
+   "desreadera": {
+      "message": "Selalu menunjukkan tingkat keremangan bar ketika lampu mati."
+   },
+   "desreadern": {
+      "message": "Jangan pernah menampilkan tingkat keremangan bar."
+   },
+   "desreflection": {
+      "message": "Menunjukkan efek refleksi pada semua video"
+   },
+   "desregularuser": {
+      "message": "This is default and the regular setting for new users. When clicking the gray lamp button, this style will be applied to the current web page."
+   },
+   "desrememberpage": {
+      "message": "Jangan tampilkan halaman pengingat"
+   },
+   "desremfacebook": {
+      "message": "Rekomendasikan ini di Facebook"
+   },
+   "desremyoutube": {
+      "message": "Berlangganan di YouTube"
+   },
+   "dessaver": {
+      "message": "Screen Saver:"
+   },
+   "desscreenprotection": {
+      "message": "One click shades the page to a soothing orange color to decrease eye strain on all open tabs. Click the lamp button again to disable this feature."
+   },
+   "dessharebutton": {
+      "message": "Tampilkan tombol berbagi YouTube untuk video ini."
+   },
+   "desshortcutlight": {
+      "message": "Aktifkan pintasan keyboard di bawah ini."
+   },
+   "desspeech": {
+      "message": "Ketika Anda menyalakan pilihan ini, Anda dapat berbicara dengan lampu browser. Dan Anda dapat memberikan perintah berikut:"
+   },
+   "desspeech1command": {
+      "message": "matikan lampu"
+   },
+   "desspeech2command": {
+      "message": "nyalakan lampu"
+   },
+   "desspeech3command": {
+      "message": "putar video"
+   },
+   "desspeech4command": {
+      "message": "jeda video"
+   },
+   "desspeech5command": {
+      "message": "Lampu peramban"
+   },
+   "desspeechdialect": {
+      "message": "Pilih dialek percakapan Anda:"
+   },
+   "desspeechonly": {
+      "message": "Nyalakan Pengenal Percakapan pada site berikut:"
+   },
+   "desspotlightradius": {
+      "message": "Diameter dari sorotan lampu:"
+   },
+   "dessuggestions": {
+      "message": "Tampilkan saran dari situs YouTube."
+   },
+   "destime": {
+      "message": "Lampu mati antara waktu-waktu berikut:"
+   },
+   "destrymotion": {
+      "message": "Itu sangat mengagumkan, dan hal terbaiknya adalah ini dapat bekerja di mana saja. Bahkan pada YouTube, website berita, dll."
+   },
+   "desuntil": {
+      "message": "sampai"
+   },
+   "desvideoheadline": {
+      "message": "Show dan membalikkan warna judul video."
+   },
+   "desvideotool": {
+      "message": "Menampilkan di bawah layar Anda toolbar untuk menyesuaikan pemutar video saat ini"
+   },
+   "desvideotoolcolor": {
+      "message": "Color of the toolbar"
+   },
+   "desvideotoolonly": {
+      "message": "Aktifkan bilah alat Video hanya pada situs berikut:"
+   },
+   "desvideovolume": {
+      "message": "Kontrol volume video player dengan mouse scroll"
+   },
+   "desvideovolumecolor": {
+      "message": "Warna Slider"
+   },
+   "desviewcount": {
+      "message": "Tampilkan jumlah penonton untuk video ini."
+   },
+   "desvisopacity": {
+      "message": "Nilai opasitas dari background audio visual"
+   },
+   "desvolumelabel": {
+      "message": "Tampilkan label volume"
+   },
+   "desvolumesteps": {
+      "message": "Jumlah level untuk setiap 360° putaran"
+   },
+   "donatepromotext": {
+      "message": "Jika Anda bisa membuat sumbangan jumlah berapapun, aku akan sangat menghargai itu!"
+   },
+   "downloadtheapp": {
+      "message": "Unduh app sekarang"
+   },
+   "eastereggsquestion": {
+      "message": "Anda suka film bioskop?"
+   },
+   "enjoyshare": {
+      "message": "Nikmati ekstensi ini dan berbagi dengan orang lain yang Anda pikir akan menyukainya."
+   },
+   "eyedivoff": {
+      "message": "Mati."
+   },
+   "eyedivon": {
+      "message": "ON"
+   },
+   "flashembedobject": {
+      "message": "Dukung: \u003Cobject>,\u003Cembed>,\u003Capplet>,\u003Ciframe>."
+   },
+   "friendlyremember": {
+      "message": "Pengingat bersahabat..."
+   },
+   "guide": {
+      "message": "Panduan Pengguna Baru TOtL"
+   },
+   "help": {
+      "message": "Bantuan"
+   },
+   "helpautoplay": {
+      "message": "Fitur 'Perlindungan Mata' sedang aktif. Agar dapat menggunakan fitur-fitur berikut, fitur 'Perlindungan Mata' harus dinonaktifkan."
+   },
+   "helpeyeprotection": {
+      "message": "Mengaktifkan \"Perlindungan Mata\" akan menonaktifkan fitur \"Putar Otomatis\"."
+   },
+   "hoveroptionapply": {
+      "message": "terapkan"
+   },
+   "hoveroptiondyn5": {
+      "message": "dengan terbang"
+   },
+   "howworkmotion": {
+      "message": "Bagaimana cara kerjanya?"
+   },
+   "html5andyoutube": {
+      "message": "HTML5 & video YouTube ™"
+   },
+   "installadblocker": {
+      "message": "Jika anda tidak ingin melihat iklan, gunakanlah ekstensi adblocker."
+   },
+   "lastchecked": {
+      "message": "Pengecekan versi terbaru"
+   },
+   "left": {
+      "message": "kiri"
+   },
+   "lockentername": {
+      "message": "Mohon masukkan kata sandi"
+   },
+   "lockwrongpassword": {
+      "message": "Kata sandi salah, mohon coba kembali."
+   },
+   "longdonatetext": {
+      "message": "Kami akan sangat senang apabila Anda dapat menyumbang agar ekstensi browser ini tetap dapat digunakan untuk pengguna baru lainnya. Berapapun nilai sumbangannya, dukungan Anda sangat kami hargai!"
+   },
+   "motionoptions": {
+      "message": "Gerakan Kamera"
+   },
+   "name": {
+      "message": "Turn Off the Lights"
+   },
+   "nightoptions": {
+      "message": "Modus malam"
+   },
+   "nmbottomleft": {
+      "message": "Kiri bawah"
+   },
+   "nmbottomright": {
+      "message": "Kanan bawah"
+   },
+   "nmcustom": {
+      "message": "Kustom (klik, tahan, dan pindahkan saklar ke tempat yang diinginkan di layar)"
+   },
+   "nmtopleft": {
+      "message": "Kiri atas"
+   },
+   "nmtopright": {
+      "message": "Kanan atas"
+   },
+   "nothanks": {
+      "message": "Tidak terima kasih"
+   },
+   "optionecosaversaved": {
+      "message": "Detik berhasil disimpan!"
+   },
+   "optionpagetitle": {
+      "message": "Turn Off the Lights - Pilihan"
+   },
+   "optionpasswordsaved": {
+      "message": "Kata sandi telah berhasil disimpan!"
+   },
+   "optionprofilesaved": {
+      "message": "New lamp action is saved successfully!"
+   },
+   "optiontimesaved": {
+      "message": "Waktu telah berhasil disimpan!"
+   },
+   "optionwrongimg": {
+      "message": "File gambar tidak valid!"
+   },
+   "pageatitle": {
+      "message": "Mematikan lampu"
+   },
+   "pagehelp": {
+      "message": "Bantuan"
+   },
+   "pagestillloading": {
+      "message": "Apakah halaman masih loading?"
+   },
+   "pagetitle": {
+      "message": "Darker halaman ini"
+   },
+   "productshare": {
+      "message": "Gadget"
+   },
+   "promotitle": {
+      "message": "Tip of the day"
+   },
+   "ratedes": {
+      "message": "Dan beritahu semua orang tentang ekstensi yang hebat ini!"
+   },
+   "rateitema": {
+      "message": "Beri nilai 5 bintang"
+   },
+   "ratetitle": {
+      "message": "Mohon nilai & periksa kembali ekstensi saya"
+   },
+   "recflash": {
+      "message": "Direkomendasikan"
+   },
+   "rememberrate": {
+      "message": "Tingkatan"
+   },
+   "reportbug": {
+      "message": "Isu laporan sebuah"
+   },
+   "reportlist": {
+      "message": "(lihat daftar)"
+   },
+   "resetbrowserextension": {
+      "message": "Atur ulang pengaturan Matikan Lampu"
+   },
+   "right": {
+      "message": "kanan"
+   },
+   "settings": {
+      "message": "Pengaturan"
+   },
+   "sharemenudonatetitle": {
+      "message": "Dukung Pengembangan"
+   },
+   "sharemenupostonfacebook": {
+      "message": "Kirim ke Facebook"
+   },
+   "sharemenupostongoogleplus": {
+      "message": "Kirim ke Google +"
+   },
+   "sharemenuratetitle": {
+      "message": "Nilai ekstensi ini"
+   },
+   "sharemenusendatweet": {
+      "message": "Kirim Tweet"
+   },
+   "sharemenusharetitle": {
+      "message": "Bagikan"
+   },
+   "sharemenutellafriend": {
+      "message": "Beritahu Teman"
+   },
+   "sharemenuwelcomeguidetitle": {
+      "message": "Panduan Awal"
+   },
+   "sharetexta": {
+      "message": "Dapatkan Turn Off the Lights extensi yang keren ini"
+   },
+   "sharetextb": {
+      "message": "Wow, sengguh menakjubkan. Aku sudah mencoba ekstensi Turn Off the Lights Browser hari ini "
+   },
+   "sharetextc": {
+      "message": "Ekstensi browser Turn Off the Lights yang terbaik dan menakjubkan"
+   },
+   "sharetextd": {
+      "message": "Ekstensi Turn Off the Lights merupakan tool terbaik untuk digunakan di YouTube. Download dan Cobalah!"
+   },
+   "shortcutalllights": {
+      "message": "Untuk menghidupkan/mematikan lampu pada seluruh halaman yang sedang dibuka"
+   },
+   "shortcutbright": {
+      "message": "untuk mencerahkan layar (mengurangi keburaman)"
+   },
+   "shortcutdark": {
+      "message": "untuk menggelapkan layar (meningkatkan keburaman)"
+   },
+   "shortcuteyeprotection": {
+      "message": "untuk mengaktifkan/menonaktifkan fitur perlindungan mata"
+   },
+   "shortcutopacity": {
+      "message": "Untuk mengembalikan ke pengaturan setelan gelap (tingkat kecerahan)"
+   },
+   "shortcutsavingopacity": {
+      "message": "untuk menyimpan nilai opacity ini"
+   },
+   "shortcuttotl": {
+      "message": "Untuk menyalakan/mematikan lampu"
+   },
+   "showremember": {
+      "message": "Jangan tampilkan halaman pengingat lagi pada saat saya membuka pilihan"
+   },
+   "skipremember": {
+      "message": "Lewati ini dan buka halaman untuk memilih sekarang"
+   },
+   "speechoption": {
+      "message": "Sensor suara"
+   },
+   "step1description": {
+      "message": "Nyalakan fitur Gerak Kamera"
+   },
+   "step2description": {
+      "message": "Gerakkan tangan anda (atau kepalan) dari atas ke bawah"
+   },
+   "step3description": {
+      "message": "Lapisan hitam secara otomatis akan turun kebawah."
+   },
+   "tellothers": {
+      "message": "Pastikan opini anda benar"
+   },
+   "textfoot": {
+      "message": "Perangkat lunak ini berlisensi CC-GNU GPL. Untuk melihat salinan dari lisensi ini, kunjungi"
+   },
+   "titel360youtube": {
+      "message": "Menampilkan video YouTube 360 derajat dalam satu frame."
+   },
+   "titeladdvideobutton": {
+      "message": "Tambahkan tombol"
+   },
+   "titelalllightsoff": {
+      "message": "Semua tab yang terbuka"
+   },
+   "titelambilight": {
+      "message": "Cahaya sekitar."
+   },
+   "titelapideveloper": {
+      "message": "Pengembang API"
+   },
+   "titelautoplay": {
+      "message": "Mulai Otomatis"
+   },
+   "titelautoplayblacklist": {
+      "message": "Blacklist"
+   },
+   "titelautoplaywhitelist": {
+      "message": "Whitelist"
+   },
+   "titelautostop": {
+      "message": "AutoStop"
+   },
+   "titelautostopblacklist": {
+      "message": "Blacklist"
+   },
+   "titelautostopwhitelist": {
+      "message": "Whitelist"
+   },
+   "titelautowidthyoutube": {
+      "message": "Secara otomatis diatur pemutar YouTube untuk ukuran yang lebih besar."
+   },
+   "titelblock60fps": {
+      "description": "Block 60fps",
+      "message": "Block 60fps"
+   },
+   "titelblur": {
+      "message": "Kaburkan lainnya"
+   },
+   "titelblurradius": {
+      "message": "Area buram:"
+   },
+   "titelcamera": {
+      "message": "Kamera"
+   },
+   "titelcinemaontop": {
+      "message": "Mode Film Bioskop: menunjukan daerah bagian atas saja yang akan digelapkan pada jendela akses"
+   },
+   "titelcolor": {
+      "message": "Warna"
+   },
+   "titelcolora": {
+      "message": "Warna A:"
+   },
+   "titelcolorb": {
+      "description": "Warna B:",
+      "message": "Warna B:"
+   },
+   "titelcontextmenus": {
+      "message": "Menu Konteks"
+   },
+   "titeldeveloper": {
+      "message": "Pengembang"
+   },
+   "titeldoesntwork": {
+      "message": "Turn Off the Lights tidak bekerja di halaman ini. Cobalah halaman lain."
+   },
+   "titeldownloadbutton": {
+      "message": "Unduh upgrade ini!"
+   },
+   "titeldownloadthemeupgrade": {
+      "message": "Tambahkan tema gelap pada browser Anda. Tema akan muncul di sekitar batas pada browser."
+   },
+   "titeldownloadupgrade": {
+      "message": "Upgrade menambahkan dukungan untuk fokus gambar yang dipilih, dan akan menampilkan galeri berkas di situs."
+   },
+   "titeldownloadupgradefinancetoolbar": {
+      "message": "Menunjukkan informasi pasar saham."
+   },
+   "titeldownloadupgradepropermenubar": {
+      "message": "Tambahkan kembali bilah menu hitam pada laman Google."
+   },
+   "titeldownloadupgradezoom": {
+      "message": "Perbesar atau perkecil  pada konten laman menggunakan tombol perbesar untuk membaca lebih nyaman."
+   },
+   "titeldynamic": {
+      "message": "Latar belakang dinamis"
+   },
+   "titeleastereggs": {
+      "message": "Telur Paskah"
+   },
+   "titeleye": {
+      "message": "Perlindungan mata"
+   },
+   "titeleyeblacklist": {
+      "message": "Blacklist"
+   },
+   "titeleyewhitelist": {
+      "message": "Whitelist"
+   },
+   "titelfadein": {
+      "message": "Muncul Secara Perlahan"
+   },
+   "titelfadeout": {
+      "message": "Fade Out"
+   },
+   "titelflash": {
+      "message": "Deteksi Flash"
+   },
+   "titelhead": {
+      "message": "Saluran"
+   },
+   "titelhovervideo": {
+      "message": "Video Hover"
+   },
+   "titelimage": {
+      "message": "Gambar latar"
+   },
+   "titelinfobar": {
+      "message": "Bagan Info"
+   },
+   "titellamp": {
+      "message": "Bola lampu"
+   },
+   "titellampchoose": {
+      "message": "Pilih style lamp favoritmu"
+   },
+   "titellampregular": {
+      "message": "Selalu menampilkan ikon lampu dalam omnibox"
+   },
+   "titellampvideo": {
+      "message": "Menampilkan ikon lampu hanya jika pemutar video terdeteksi"
+   },
+   "titellessmore": {
+      "message": "Tampilkan sedikit"
+   },
+   "titellikebar": {
+      "message": "Bagan Sukaan"
+   },
+   "titellikebutton": {
+      "message": "Tombol Suka dan Tidak Suka"
+   },
+   "titellinear": {
+      "message": "Linier"
+   },
+   "titelmaxqualityyoutube": {
+      "message": "Otomatis mengatur resolusi ini:"
+   },
+   "titelmouse": {
+      "message": "Tetikus"
+   },
+   "titelnightmodebck": {
+      "message": "Warna Latar belakang"
+   },
+   "titelnightmodeblacklist": {
+      "message": "Blacklist"
+   },
+   "titelnightmodehyperlink": {
+      "description": "Hyperlink",
+      "message": "Hyperlink"
+   },
+   "titelnightmodeposition": {
+      "message": "Tukar posisi"
+   },
+   "titelnightmodetxt": {
+      "message": "Warna teks"
+   },
+   "titelnightmodewhitelist": {
+      "message": "Whitelist"
+   },
+   "titelnighttheme": {
+      "message": "Modus malam"
+   },
+   "titeloff": {
+      "message": "Mati."
+   },
+   "titelon": {
+      "message": "Nyala"
+   },
+   "titelopacity": {
+      "message": "Kegelapan"
+   },
+   "titelpageaction": {
+      "message": "Lampu Sembunyikan ikon"
+   },
+   "titelpassword": {
+      "message": "Perlindungan kata sandi"
+   },
+   "titelplaylist": {
+      "message": "Playlist"
+   },
+   "titelpopupoptions": {
+      "message": "Opsi"
+   },
+   "titelpopupratestars": {
+      "message": "Beri nilai 5 bintang"
+   },
+   "titelpopupsupport": {
+      "message": "Bantuan"
+   },
+   "titelpopupvideo": {
+      "message": "YouTube"
+   },
+   "titelpopupwelcomeguide": {
+      "message": "Panduan Awal"
+   },
+   "titelqualityyoutube": {
+      "message": "Secara otomatis ditetapkan kualitas video YouTube."
+   },
+   "titelreader": {
+      "message": "Tingkat keremangan Bar"
+   },
+   "titelreflection": {
+      "message": "Refleksi"
+   },
+   "titelrememberpage": {
+      "message": "Halaman pengingat"
+   },
+   "titelreset": {
+      "message": "Atur ulang Pengaturan"
+   },
+   "titelrightsreserved": {
+      "message": "Beberapa hak dilindungi."
+   },
+   "titelscreen": {
+      "message": "Layar"
+   },
+   "titelseeonline": {
+      "message": "Lihat contoh lain secara online"
+   },
+   "titelsharebutton": {
+      "message": "Tombol berbagi"
+   },
+   "titelsharethis": {
+      "message": "Bagikan ini:"
+   },
+   "titelshortcutlight": {
+      "message": "Kunci penyingkat"
+   },
+   "titelshowmore": {
+      "message": "Selengkapnya"
+   },
+   "titelspeech": {
+      "message": "Percakapan"
+   },
+   "titelspreadradius": {
+      "message": "Penyebaran area:"
+   },
+   "titelsuggestions": {
+      "message": "Saran"
+   },
+   "titelsupportatmos": {
+      "message": "Hanya berikan dukungan kepada  HTML5 \u003Cvideo> dan YouTube HTML5 Player. Ini juga menggunakan GPU dari kartu grafis anda."
+   },
+   "titelsync": {
+      "message": "Sinkronisasi"
+   },
+   "titelsyncbrowser": {
+      "message": "Sinkronkan ekstensi pengaturan dengan peramban lainnya."
+   },
+   "titelupgrade": {
+      "message": "Meng-upgrade"
+   },
+   "titelvideoheadline": {
+      "message": "Judul video"
+   },
+   "titelvideosample": {
+      "message": "Contoh Video"
+   },
+   "titelvideotool": {
+      "message": "Video Tool Bar"
+   },
+   "titelvideotoolblacklist": {
+      "message": "Blacklist"
+   },
+   "titelvideotoolbrightness": {
+      "message": "kecerahan 50%"
+   },
+   "titelvideotoolcontrast": {
+      "message": "kontras"
+   },
+   "titelvideotoolfilter": {
+      "message": "Filter"
+   },
+   "titelvideotoolfullwindow": {
+      "message": "Penuh jendela"
+   },
+   "titelvideotoolgrayscale": {
+      "message": "grayscale"
+   },
+   "titelvideotoolhueroration": {
+      "message": "Hue rotasi 90°"
+   },
+   "titelvideotoolinvert": {
+      "message": "balikkan"
+   },
+   "titelvideotoollike": {
+      "message": "Seperti"
+   },
+   "titelvideotoolnormal": {
+      "message": "normal"
+   },
+   "titelvideotoolrepeat": {
+      "message": "Ulangi"
+   },
+   "titelvideotoolsaturate": {
+      "message": "jenuh"
+   },
+   "titelvideotoolscreenshot": {
+      "message": "Mengambil screenshot"
+   },
+   "titelvideotoolsepia": {
+      "message": "Sepia"
+   },
+   "titelvideotoolsubscribe": {
+      "message": "Langganan"
+   },
+   "titelvideotoolwhitelist": {
+      "message": "Whitelist"
+   },
+   "titelviewcount": {
+      "message": "Jumlah Dilihat"
+   },
+   "titelvisblocks": {
+      "message": "Membatasi"
+   },
+   "titelvischoose": {
+      "message": "Pilih Visual Audio anda"
+   },
+   "titelvisenable": {
+      "message": "Aktifkan/nonaktifkan Visualisasi Audio"
+   },
+   "titelvisfrequency": {
+      "message": "Frekuensi"
+   },
+   "titelvistunnel": {
+      "message": "Saluran musik"
+   },
+   "titelvisualization": {
+      "message": "Audio Visual"
+   },
+   "titelvolume": {
+      "message": "Slider Volume Video"
+   },
+   "titelwebsite": {
+      "message": "Situs web"
+   },
+   "titelwikiatmos": {
+      "message": "Wiki tentang fitur Pencahayaan Atmosfir"
+   },
+   "titledonatebutton": {
+      "message": "Sumbangan"
+   },
+   "titlelearnmore": {
+      "message": "Pelajari lebih lanjut"
+   },
+   "titlenightowl": {
+      "message": "Night Owl"
+   },
+   "titleprofilealwaysscreentab": {
+      "message": "Selalu diaktifkan untuk semua Buka tab"
+   },
+   "titleprofilenovideofocus": {
+      "message": "Fokus video dinonaktifkan"
+   },
+   "titleprofilescreenclick": {
+      "message": "Mengaktifkan klik hyperlink ketika layar digelapkan"
+   },
+   "titleprofilesubmit": {
+      "message": "Memilih pengaturan ini"
+   },
+   "titleprofilevideofocus": {
+      "message": "Fokus video diaktifkan"
+   },
+   "titleregularuser": {
+      "message": "Video Lover"
+   },
+   "titlescreenprotection": {
+      "message": "Perlindungan mata"
+   },
+   "titleuserprofile": {
+      "message": "Below, choose the settings you want to use when clicking the gray lamp button. Each profile has its own features."
+   },
+   "top": {
+      "message": "atas"
+   },
+   "translateme": {
+      "message": "Bantu terjemah"
+   },
+   "trymotion": {
+      "message": "Cobalah sendiri!"
+   },
+   "upgradecontextitemma": {
+      "message": "matikan lampu dengan tangan Anda"
+   },
+   "upgradecontextitemmb": {
+      "message": "Mengendalikan halaman web dengan lebih akurat"
+   },
+   "upgradecontextitemta": {
+      "message": "Gerakan Kamera"
+   },
+   "upgradecontextitemtb": {
+      "message": "Sensor suara"
+   },
+   "upgradecontextmessage": {
+      "message": "Itu membuat ekstensi ini lebih mengagumkan"
+   },
+   "upgradecontexttitle": {
+      "message": "Kami telah menambahkan beberapa fitur baru untuk Anda"
+   },
+   "upgradefbshare": {
+      "message": "Bagikan di Facebook"
+   },
+   "upgradetwshare": {
+      "message": "Tweet"
+   },
+   "version": {
+      "message": "Versi"
+   },
+   "videotitle": {
+      "message": "Fokus ke video ini"
+   },
+   "visualeffects": {
+      "message": "Efek Visual"
+   },
+   "vtoolalign": {
+      "message": "A button to center the video player in your browser window"
+   },
+   "vtoolfilter": {
+      "message": "Tombol untuk menambahkan filter di pemutar video"
+   },
+   "vtoolfullscreen": {
+      "message": "Tombol untuk mengatur pemutar video dengan ukuran penuh jendela"
+   },
+   "vtoolreplay": {
+      "message": "Tombol untuk replay pemutar video"
+   },
+   "vtoolscreenshot": {
+      "message": "A button to take a screenshot of the current video player"
+   },
+   "vtoolvisualization": {
+      "message": "Button untuk menampilkan audio-visual pemutar video saat ini"
+   },
+   "warning": {
+      "message": "Peringatan!"
+   },
+   "warningtextambilight": {
+      "message": "Bila tidak dapat menerima data video terkait peraturan mengenai keamanan situs, warna solid terpilih akan digunakan sebagai gantinya."
+   },
+   "writeareview": {
+      "message": "Tulis ulasan"
+   }
+}

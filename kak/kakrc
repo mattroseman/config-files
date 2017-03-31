@@ -1,0 +1,65 @@
+
+# Create a subgroup called "gdt"
+addhl -group / group gdt
+
+# Make the subgroup highlight certain keywords
+addhl -group /gdt regex TODO|FIXME|XXX|NOTE 0:default+rb
+
+# Assign the "gdt" highlighter to each language's comments highlighter
+#%sh{
+#    LANGS=(
+#        c
+#        cabal
+#        coffee
+#        cpp
+#        css
+#        cucumber
+#        dlang
+#        fish
+#        golang
+#        haml
+#        haskell
+#        html
+#        java
+#        javascript
+#        julia
+#        kakrc
+#        kickstart
+#        lisp
+#        objc
+#        python
+#        ragel
+#        ruby
+#        rust
+#        sass
+#        scala
+#        sh
+#        yaml
+#    )
+#    for lang in "${LANG[@]}"; do
+#        echo "addhl -group /${lang}/comment ref gdt"
+#    done
+#}
+
+########## HOOKS ##########
+
+# add line numbers
+hook global WinCreate .* %{addhl number_lines}
+
+# add brackets highliting
+hook global WinCreate .* %{addhl show_matching}
+
+# use only spaces do not use tabs
+hook -group TabExpander global InsertChar \t %{ exec -draft h@}
+
+# add autowrap to 72 characters in git-commit
+hook -group GitWrapper global WinSetOption filetype=git-commit %{
+    set buffer autowrap_column 72
+    autowrap-enable
+
+    hook window WinSetOption filetype=(?!git-commit).* %{ autowrap-disable }
+}
+
+##########
+
+set global tabstop 4
