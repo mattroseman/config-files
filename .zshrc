@@ -7,13 +7,15 @@ export ANDROID_HOME=${HOME}/android-sdk/
 export PATH=${PATH}:${ANDROID_HOME}/tools
 export PATH=${PATH}:${ANDROID_HOME}/platform-tools
 export PATH=$HOME/.gem/ruby/2.3.0/bin:$PATH
-export PATH=$PATH:/usr/local/go/bin
+# export PATH=$PATH:/usr/local/go/bin
+export PATH=$PATH:/home/matthew/go/bin
 export PATH=$PATH:/home/matthew/Scripts
 export PATH=$PATH:/home/matthew/Postman
 
 # Path to the go source directory
 export GOPATH=$HOME/Programming/go
-export GOROOT=/usr/local/go
+# export GOROOT=/usr/local/go
+export GOROOT=/home/matthew/go
 export PATH=$GOPATH/bin:$PATH
 
 # set the default browser
@@ -37,7 +39,10 @@ export VISUAL="vim"
 # Set name of the theme to load. Optionally, if you set this to "random"
 # it'll load a random theme each time that oh-my-zsh is loaded.
 # See https://github.com/robbyrussell/oh-my-zsh/wiki/Themes
-ZSH_THEME="bira"
+# ZSH_THEME="bira"
+ZSH_THEME="agnoster"
+DEFAULT_USER="matthew"
+prompt_context(){}
 
 # Uncomment the following line to use case-sensitive completion.
 # CASE_SENSITIVE="true"
