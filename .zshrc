@@ -21,6 +21,9 @@ export PATH=$GOPATH/bin:$PATH
 # set the default browser
 export BROWSER=/usr/bin/firefox
 
+# set php composer directory
+export PATH=~/.config/composer/vendor/bin:$PATH
+
 # set npm global directory
 export PATH=~/npm-global/bin:$PATH
 
@@ -85,7 +88,7 @@ prompt_context(){}
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git archlinux)
+plugins=(git archlinux autoenv)
 
 source $ZSH/oh-my-zsh.sh
 
